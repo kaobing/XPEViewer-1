@@ -126,12 +126,13 @@
         <source>Search</source>
         <translation>חפש</translation>
     </message>
-</context>
-<context>
-    <name>Binary_Script</name>
     <message>
-        <source>Invalid handle</source>
-        <translation></translation>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -164,7 +165,7 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation>סינון</translation>
+        <translation type="vanished">סינון</translation>
     </message>
     <message>
         <source>Save</source>
@@ -210,6 +211,14 @@
         <source>Search</source>
         <translation>חפש</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEOptionsWidget</name>
@@ -246,10 +255,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Buffer size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Scan</source>
         <translation>סרוק</translation>
     </message>
@@ -265,6 +270,30 @@
         <source>Open directory</source>
         <translation>פתח תיקייה</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
+    </message>
+    <message>
+        <source>Aggressive scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra database</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEWidgetAdvanced</name>
@@ -278,27 +307,23 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>סריקה מתקדמת</translation>
+        <translation type="vanished">סריקה מתקדמת</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>סריקה רקורסיבית</translation>
+        <translation type="vanished">סריקה רקורסיבית</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>כל הסוגים</translation>
+        <translation type="vanished">כל הסוגים</translation>
     </message>
     <message>
         <source>Signatures</source>
@@ -328,6 +353,26 @@
         <source>Cannot save file</source>
         <translation>לא ניתן לשמור את הקובץ</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">מסד נתונים</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">תוצאה</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Signature name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIE_Widget</name>
@@ -337,19 +382,15 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>סריקה רקורסיבית</translation>
+        <translation type="vanished">סריקה רקורסיבית</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>סריקה מתקדמת</translation>
+        <translation type="vanished">סריקה מתקדמת</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -361,7 +402,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>כל הסוגים</translation>
+        <translation type="vanished">כל הסוגים</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -379,12 +420,24 @@
         <source>Copy as</source>
         <translation>העתק בשם</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">מסד נתונים</translation>
+    </message>
 </context>
 <context>
     <name>DiE_Script</name>
     <message>
         <source>Cannot load database</source>
-        <translation>לא ניתן לטעון את מסד הנתונים</translation>
+        <translation type="vanished">לא ניתן לטעון את מסד הנתונים</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -503,6 +556,21 @@
     </message>
 </context>
 <context>
+    <name>DialogCreateViewModel</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">שגיאה</translation>
+    </message>
+    <message>
+        <source>Invalid parameters provided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name cannot be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DialogDIEScanDirectory</name>
     <message>
         <source>Directory scan</source>
@@ -518,23 +586,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>סריקה רקורסיבית</translation>
+        <translation type="vanished">סריקה רקורסיבית</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>סריקה מתקדמת</translation>
+        <translation type="vanished">סריקה מתקדמת</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>כל הסוגים</translation>
+        <translation type="vanished">כל הסוגים</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -567,6 +631,10 @@
     <message>
         <source>Save result</source>
         <translation>שמור תוצאה</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
     </message>
 </context>
 <context>
@@ -628,10 +696,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Show options</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Show version</source>
         <translation></translation>
     </message>
@@ -654,6 +718,10 @@
     <message>
         <source>msec</source>
         <translation>msec</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -679,7 +747,7 @@
     <name>DialogDataInspector</name>
     <message>
         <source>Data inspector</source>
-        <translation>נתונים בקוד</translation>
+        <translation type="vanished">נתונים בקוד</translation>
     </message>
     <message>
         <source>Endianness</source>
@@ -717,6 +785,10 @@
         <source>Binary</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogDemangle</name>
@@ -744,7 +816,7 @@
     <name>DialogDumpProcess</name>
     <message>
         <source>Dump</source>
-        <translation>יצא כקובץ הרצה</translation>
+        <translation type="vanished">יצא כקובץ הרצה</translation>
     </message>
 </context>
 <context>
@@ -956,66 +1028,62 @@
     <name>DialogMultiDisasmSignature</name>
     <message>
         <source>Signature</source>
-        <translation>חתימה</translation>
+        <translation type="vanished">חתימה</translation>
     </message>
     <message>
         <source>Spaces</source>
-        <translation>רווחים</translation>
+        <translation type="vanished">רווחים</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation>עליון</translation>
+        <translation type="vanished">עליון</translation>
     </message>
     <message>
         <source>Wildcard</source>
-        <translation>Wildcard</translation>
+        <translation type="vanished">Wildcard</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation>סרוק</translation>
+        <translation type="vanished">סרוק</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
+        <translation type="vanished">העתק</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>אישור</translation>
+        <translation type="vanished">אישור</translation>
     </message>
     <message>
         <source>Relative virtual address</source>
-        <translation>כתובת יחסית</translation>
+        <translation type="vanished">כתובת יחסית</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>כתובת</translation>
+        <translation type="vanished">כתובת</translation>
     </message>
     <message>
         <source>Bytes</source>
-        <translation>בתים</translation>
+        <translation type="vanished">בתים</translation>
     </message>
     <message>
         <source>Opcode</source>
-        <translation>מזהה פקודה</translation>
+        <translation type="vanished">מזהה פקודה</translation>
     </message>
 </context>
 <context>
     <name>DialogMultiSearchProcess</name>
     <message>
         <source>Search strings</source>
-        <translation>חפש מחרוזת</translation>
+        <translation type="vanished">חפש מחרוזת</translation>
     </message>
     <message>
         <source>Search signatures</source>
-        <translation>חפש חתימות</translation>
-    </message>
-    <message>
-        <source>Search values</source>
-        <translation></translation>
+        <translation type="vanished">חפש חתימות</translation>
     </message>
     <message>
         <source>Create view model</source>
-        <translation>צור מודל תצוגה</translation>
+        <translation type="vanished">צור מודל תצוגה</translation>
     </message>
 </context>
 <context>
@@ -1045,23 +1113,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>סריקה רקורסיבית</translation>
+        <translation type="vanished">סריקה רקורסיבית</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>סריקה מתקדמת</translation>
+        <translation type="vanished">סריקה מתקדמת</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>כל הסוגים</translation>
+        <translation type="vanished">כל הסוגים</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -1095,16 +1159,20 @@
         <source>Save result</source>
         <translation>שמור תוצאה</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
+    </message>
 </context>
 <context>
     <name>DialogNFDScanProcess</name>
     <message>
         <source>Text documents</source>
-        <translation>מסמכי טקסט</translation>
+        <translation type="vanished">מסמכי טקסט</translation>
     </message>
     <message>
         <source>Save result</source>
-        <translation>שמור תוצאה</translation>
+        <translation type="vanished">שמור תוצאה</translation>
     </message>
 </context>
 <context>
@@ -1245,16 +1313,24 @@
         <source>Cursor</source>
         <translation>סמן</translation>
     </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">סוג</translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">הקס</translation>
+    </message>
 </context>
 <context>
     <name>DialogSearchProcess</name>
     <message>
         <source>Search</source>
-        <translation>חפש</translation>
+        <translation type="vanished">חפש</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>בטל</translation>
+        <translation type="vanished">בטל</translation>
     </message>
 </context>
 <context>
@@ -1368,6 +1444,85 @@
     <message>
         <source>Close</source>
         <translation>סגור</translation>
+    </message>
+    <message>
+        <source>Image information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">שגיאה</translation>
+    </message>
+    <message>
+        <source>Image file does not exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to load image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit to Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">העתק</translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished">תמונות</translation>
+    </message>
+    <message>
+        <source>Failed to save image to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No image loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">גודל</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">פורמט</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DialogShowText</name>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">טֶקסט</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">סגור</translation>
     </message>
 </context>
 <context>
@@ -1532,6 +1687,22 @@
         <source>Background</source>
         <translation>רקע</translation>
     </message>
+    <message>
+        <source>Text color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>String</source>
+        <translation type="unfinished">מחרוזת</translation>
+    </message>
 </context>
 <context>
     <name>DialogVisualization</name>
@@ -1588,39 +1759,27 @@
     <name>DialogXInfoDBTransferProcess</name>
     <message>
         <source>Analyze</source>
-        <translation>אבחן</translation>
+        <translation type="vanished">אבחן</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>פירוק לפקודות</translation>
+        <translation type="vanished">פירוק לפקודות</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>סמלים</translation>
+        <translation type="vanished">סמלים</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>נקה</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation></translation>
+        <translation type="vanished">נקה</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>יצא</translation>
+        <translation type="vanished">יצא</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>פונקציות מיובאות</translation>
-    </message>
-    <message>
-        <source>Scan for IAT</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Get IAT</source>
-        <translation></translation>
+        <translation type="vanished">פונקציות מיובאות</translation>
     </message>
 </context>
 <context>
@@ -1635,11 +1794,11 @@
     </message>
     <message>
         <source>Functions</source>
-        <translation>פונקציות</translation>
+        <translation type="vanished">פונקציות</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>הפניות חיצוניות</translation>
+        <translation type="vanished">הפניות חיצוניות</translation>
     </message>
 </context>
 <context>
@@ -1777,11 +1936,11 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation>עריכה</translation>
+        <translation type="vanished">עריכה</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>להסיר</translation>
+        <translation type="vanished">להסיר</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1793,7 +1952,15 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>יצא כקובץ הרצה לקובץ</translation>
+        <translation type="vanished">יצא כקובץ הרצה לקובץ</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1890,6 +2057,10 @@
     <message>
         <source>Value</source>
         <translation>ערך</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
     </message>
 </context>
 <context>
@@ -2037,6 +2208,18 @@
     <message>
         <source>Open directory</source>
         <translation>פתח תיקייה</translation>
+    </message>
+    <message>
+        <source>Scan engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">ארכיון</translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2240,6 +2423,14 @@
         <source>Edit</source>
         <translation>עריכה</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MACHOFATWidget</name>
@@ -2416,6 +2607,14 @@
         <source>Demangle</source>
         <translation>להסיר</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSDOSWidget</name>
@@ -2475,40 +2674,60 @@
         <source>Overlay</source>
         <translation>שכבה</translation>
     </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">יצא כקובץ הרצה</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiSearch</name>
     <message>
-        <source>Number</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Offset</source>
-        <translation>היסט</translation>
+        <translation type="vanished">היסט</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>כתובת</translation>
+        <translation type="vanished">כתובת</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>גודל</translation>
+        <translation type="vanished">גודל</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation type="vanished">סוג</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>מחרוזת</translation>
+        <translation type="vanished">מחרוזת</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>ערך</translation>
+        <translation type="vanished">ערך</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="vanished">שם</translation>
+    </message>
+    <message>
+        <source>Search strings</source>
+        <translation type="unfinished">חפש מחרוזת</translation>
+    </message>
+    <message>
+        <source>Search signatures</source>
+        <translation type="unfinished">חפש חתימות</translation>
+    </message>
+    <message>
+        <source>Search values</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2580,6 +2799,14 @@
         <source>Overlay</source>
         <translation>שכבה</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDOptionsWidget</name>
@@ -2611,6 +2838,10 @@
         <source>Highlight</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDWidgetAdvanced</name>
@@ -2620,27 +2851,23 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>סריקה רקורסיבית</translation>
+        <translation type="vanished">סריקה רקורסיבית</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>סריקה מתקדמת</translation>
+        <translation type="vanished">סריקה מתקדמת</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>כל הסוגים</translation>
+        <translation type="vanished">כל הסוגים</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2656,7 +2883,7 @@
     </message>
     <message>
         <source>Result</source>
-        <translation>תוצאה</translation>
+        <translation type="vanished">תוצאה</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2665,6 +2892,30 @@
     <message>
         <source>Value</source>
         <translation>ערך</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">דגלים</translation>
+    </message>
+    <message>
+        <source>Heuristics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text files</source>
+        <translation type="unfinished">קבצי טקסט</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation type="unfinished">כל הקבצים</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">שגיאה</translation>
+    </message>
+    <message>
+        <source>Cannot save file</source>
+        <translation type="unfinished">לא ניתן לשמור את הקובץ</translation>
     </message>
 </context>
 <context>
@@ -2675,19 +2926,15 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>סריקה רקורסיבית</translation>
+        <translation type="vanished">סריקה רקורסיבית</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>סריקה מתקדמת</translation>
+        <translation type="vanished">סריקה מתקדמת</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -2695,7 +2942,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>כל הסוגים</translation>
+        <translation type="vanished">כל הסוגים</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -2707,7 +2954,7 @@
     </message>
     <message>
         <source>msec</source>
-        <translation>msec</translation>
+        <translation type="vanished">msec</translation>
     </message>
 </context>
 <context>
@@ -3164,6 +3411,14 @@
         <source>Demangle</source>
         <translation>להסיר</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -3219,6 +3474,182 @@
         <source>Cannot open file</source>
         <translation>לא ניתן לפתוח את הקובץ</translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">לא ידוע</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">כותרת</translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">הקס</translation>
+    </message>
+    <message>
+        <source>Disasm</source>
+        <translation type="unfinished">פירוק לפקודות</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">ארכיון</translation>
+    </message>
+    <message>
+        <source>Hash</source>
+        <translation type="unfinished">פונקציית גיבוב</translation>
+    </message>
+    <message>
+        <source>Strings</source>
+        <translation type="unfinished">מחרוזות</translation>
+    </message>
+    <message>
+        <source>Signatures</source>
+        <translation type="unfinished">חתימות</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">אזורים</translation>
+    </message>
+    <message>
+        <source>Memory map</source>
+        <translation type="unfinished">מפת זיכרון</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished">סמלים</translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">אנטרופיה</translation>
+    </message>
+    <message>
+        <source>Extractor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">חפש</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">קובץ</translation>
+    </message>
+    <message>
+        <source>Resource</source>
+        <translation type="unfinished">מַשׁאָב</translation>
+    </message>
+    <message>
+        <source>Region</source>
+        <translation type="unfinished">אזור</translation>
+    </message>
+    <message>
+        <source>Debug data</source>
+        <translation type="unfinished">נתוני מנפה שגיאות</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished">אזור</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Segment</source>
+        <translation type="unfinished">חלק</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation type="unfinished">לְהִתְנַגֵד</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">טבלה</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="unfinished">תהליך</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">אודיו</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">מסמך</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">תמונה</translation>
+    </message>
+    <message>
+        <source>Plain Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">טֶקסט</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">מידע</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read error</source>
+        <translation type="unfinished">שגיאת קריאה</translation>
+    </message>
+    <message>
+        <source>Architecture</source>
+        <translation type="unfinished">ארכיטקטורה</translation>
+    </message>
+    <message>
+        <source>Raw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">פורמט</translation>
+    </message>
+    <message>
+        <source>Heuristic</source>
+        <translation type="unfinished">היוריסטי</translation>
+    </message>
 </context>
 <context>
     <name>QwtPlotRenderer</name>
@@ -3254,7 +3685,7 @@
     <name>ScanItemModel</name>
     <message>
         <source>Result</source>
-        <translation>תוצאה</translation>
+        <translation type="vanished">תוצאה</translation>
     </message>
 </context>
 <context>
@@ -3300,31 +3731,39 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">העתק</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="vanished">שם</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>חתימה</translation>
+        <translation type="vanished">חתימה</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>כתובת</translation>
+        <translation type="vanished">כתובת</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>היסט</translation>
+        <translation type="vanished">היסט</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>הקס</translation>
+        <translation type="vanished">הקס</translation>
+    </message>
+    <message>
+        <source>Patch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">מידע</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">תוצאה</translation>
     </message>
 </context>
 <context>
@@ -3335,7 +3774,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
         <source>Null-terminated</source>
@@ -3346,20 +3785,12 @@
         <translation></translation>
     </message>
     <message>
-        <source>Min size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>חפש</translation>
     </message>
     <message>
-        <source>Code page</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Filter</source>
-        <translation>סינון</translation>
+        <translation type="vanished">סינון</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3370,24 +3801,20 @@
         <translation>מחרוזות</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Edit</source>
-        <translation>עריכה</translation>
+        <translation type="vanished">עריכה</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>הקס</translation>
+        <translation type="vanished">הקס</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>להסיר</translation>
+        <translation type="vanished">להסיר</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>מחרוזת</translation>
+        <translation type="vanished">מחרוזת</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3396,6 +3823,46 @@
     <message>
         <source>Cannot save file</source>
         <translation>לא ניתן לשמור את הקובץ</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+    <message>
+        <source>Mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">תוצאה</translation>
+    </message>
+    <message>
+        <source>Searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>strings found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>msec</source>
+        <translation type="unfinished">msec</translation>
+    </message>
+    <message>
+        <source>strings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3429,71 +3896,83 @@
         <translation></translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Hex</source>
-        <translation>הקס</translation>
+        <translation type="vanished">הקס</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>פירוק לפקודות</translation>
+        <translation type="vanished">פירוק לפקודות</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+    <message>
+        <source>Search string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">תוצאה</translation>
     </message>
 </context>
 <context>
     <name>SpecAbstract</name>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
-    </message>
-    <message>
-        <source>Virus</source>
-        <translation></translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>שכבה</translation>
+        <translation type="vanished">שכבה</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>כתובת תחילת הריצה</translation>
+        <translation type="vanished">כתובת תחילת הריצה</translation>
     </message>
     <message>
         <source>Section name</source>
-        <translation>שם אזור</translation>
+        <translation type="vanished">שם אזור</translation>
     </message>
     <message>
         <source>Import hash</source>
-        <translation>ייבא חשיש</translation>
+        <translation type="vanished">ייבא חשיש</translation>
     </message>
     <message>
         <source>Code section</source>
-        <translation>אזור קוד</translation>
+        <translation type="vanished">אזור קוד</translation>
     </message>
     <message>
         <source>Entry point section</source>
-        <translation>אזור כתובת תחילת הריצה</translation>
+        <translation type="vanished">אזור כתובת תחילת הריצה</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>מחרוזת</translation>
+        <translation type="vanished">מחרוזת</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>ארכיון</translation>
+        <translation type="vanished">ארכיון</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>משאבי קובץ</translation>
+        <translation type="vanished">משאבי קובץ</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>סוג</translation>
+        <translation type="vanished">סוג</translation>
     </message>
 </context>
 <context>
@@ -3513,6 +3992,13 @@
     <message>
         <source>Directory scan</source>
         <translation>סריקת תיקייה</translation>
+    </message>
+</context>
+<context>
+    <name>StaticScanItemModel</name>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">תוצאה</translation>
     </message>
 </context>
 <context>
@@ -3580,7 +4066,7 @@
     </message>
     <message>
         <source>Check updates</source>
-        <translation>בדוק עדכונים</translation>
+        <translation type="vanished">בדוק עדכונים</translation>
     </message>
     <message>
         <source>Libraries</source>
@@ -3614,12 +4100,13 @@
         <source>The value copied to clipboard</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>XAbstractTableView</name>
     <message>
-        <source>Invalid font</source>
-        <translation></translation>
+        <source>Check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Social Media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3631,6 +4118,25 @@
     <message>
         <source>Archive</source>
         <translation>ארכיון</translation>
+    </message>
+    <message>
+        <source>extender</source>
+        <translation type="unfinished">מרחיב</translation>
+    </message>
+</context>
+<context>
+    <name>XBMP</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">כותרת</translation>
+    </message>
+    <message>
+        <source>Bitmap Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -3665,55 +4171,39 @@
     </message>
     <message>
         <source>Region</source>
-        <translation>אזור</translation>
+        <translation type="vanished">אזור</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation>תהליך</translation>
+        <translation type="vanished">תהליך</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>ארכיון</translation>
+        <translation type="vanished">ארכיון</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>אודיו</translation>
+        <translation type="vanished">אודיו</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="vanished">מסמך</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
-    </message>
-    <message>
-        <source>Plain Text</source>
-        <translation></translation>
+        <translation type="vanished">תמונה</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>חתימה</translation>
-    </message>
-    <message>
-        <source>tar</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>tar.gz</source>
-        <translation></translation>
+        <translation type="vanished">חתימה</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>טֶקסט</translation>
-    </message>
-    <message>
-        <source>Video</source>
-        <translation></translation>
+        <translation type="vanished">טֶקסט</translation>
     </message>
     <message>
         <source>Signatures</source>
-        <translation>חתימות</translation>
+        <translation type="vanished">חתימות</translation>
     </message>
     <message>
         <source>Read error</source>
@@ -3801,7 +4291,7 @@
     </message>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -3809,25 +4299,76 @@
     </message>
     <message>
         <source>Archive record</source>
-        <translation>רשומה</translation>
+        <translation type="vanished">רשומה</translation>
     </message>
     <message>
         <source>Resource</source>
-        <translation>מַשׁאָב</translation>
+        <translation type="vanished">מַשׁאָב</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Streams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">מידע</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">שגיאה</translation>
+    </message>
+    <message>
+        <source>Corrupted data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <translation type="unfinished">סך הכל</translation>
     </message>
 </context>
 <context>
     <name>XCOM</name>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
+    </message>
+</context>
+<context>
+    <name>XCab</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">כותרת</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
     <name>XCapstone</name>
     <message>
         <source>Invalid opcode</source>
-        <translation>קוד לא חוקי</translation>
+        <translation type="vanished">קוד לא חוקי</translation>
     </message>
 </context>
 <context>
@@ -3851,12 +4392,16 @@
         <source>Overlay</source>
         <translation>שכבה</translation>
     </message>
+    <message>
+        <source>Main module</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XDataConvertor</name>
     <message>
         <source>Read error</source>
-        <translation>שגיאת קריאה</translation>
+        <translation type="vanished">שגיאת קריאה</translation>
     </message>
     <message>
         <source>Write error</source>
@@ -3942,20 +4487,32 @@
         <source>Cannot resize</source>
         <translation>לא ניתן לפתוח את הקובץ</translation>
     </message>
+    <message>
+        <source>Save dump</source>
+        <translation type="unfinished">שמור מצב</translation>
+    </message>
+    <message>
+        <source>Raw data</source>
+        <translation type="unfinished">מידע גולמי</translation>
+    </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">יצא כקובץ הרצה</translation>
+    </message>
 </context>
 <context>
     <name>XDeviceTableView</name>
     <message>
         <source>Save dump</source>
-        <translation>שמור מצב</translation>
+        <translation type="vanished">שמור מצב</translation>
     </message>
     <message>
         <source>Raw data</source>
-        <translation>מידע גולמי</translation>
+        <translation type="vanished">מידע גולמי</translation>
     </message>
     <message>
         <source>Dump</source>
-        <translation>יצא כקובץ הרצה</translation>
+        <translation type="vanished">יצא כקובץ הרצה</translation>
     </message>
     <message>
         <source>Nothing found</source>
@@ -3979,6 +4536,18 @@
     <message>
         <source>Info</source>
         <translation>מידע</translation>
+    </message>
+    <message>
+        <source>Elapsed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remaining:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4005,111 +4574,95 @@
     </message>
     <message>
         <source>Go to</source>
-        <translation>מעבר אל</translation>
+        <translation type="vanished">מעבר אל</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>חפש</translation>
+        <translation type="vanished">חפש</translation>
     </message>
     <message>
         <source>Analyze</source>
-        <translation>אבחן</translation>
+        <translation type="vanished">אבחן</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>הקס</translation>
+        <translation type="vanished">הקס</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>בחר</translation>
+        <translation type="vanished">בחר</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">העתק</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>עריכה</translation>
+        <translation type="vanished">עריכה</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>סימניות</translation>
+        <translation type="vanished">סימניות</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>יצא כקובץ הרצה לקובץ</translation>
+        <translation type="vanished">יצא כקובץ הרצה לקובץ</translation>
     </message>
     <message>
         <source>Hex signature</source>
-        <translation>חתימה משושה</translation>
+        <translation type="vanished">חתימה משושה</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>חתימה</translation>
+        <translation type="vanished">חתימה</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>מחרוזת</translation>
+        <translation type="vanished">מחרוזת</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>ערך</translation>
+        <translation type="vanished">ערך</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>חפש את הבא</translation>
+        <translation type="vanished">חפש את הבא</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>בחר הכל</translation>
+        <translation type="vanished">בחר הכל</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>נתונים</translation>
+        <translation type="vanished">נתונים</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>הפניות חיצוניות</translation>
+        <translation type="vanished">הפניות חיצוניות</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>הכל</translation>
+        <translation type="vanished">הכל</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>פירוק לפקודות</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation></translation>
+        <translation type="vanished">פירוק לפקודות</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>סמלים</translation>
+        <translation type="vanished">סמלים</translation>
     </message>
     <message>
         <source>Functions</source>
-        <translation>פונקציות</translation>
+        <translation type="vanished">פונקציות</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>נקה</translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation></translation>
+        <translation type="vanished">נקה</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>כתובת תחילת הריצה</translation>
+        <translation type="vanished">כתובת תחילת הריצה</translation>
     </message>
     <message>
         <source>Relative address</source>
@@ -4272,15 +4825,15 @@
     <name>XELF</name>
     <message>
         <source>Section</source>
-        <translation>אזור</translation>
+        <translation type="vanished">אזור</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>שכבה</translation>
+        <translation type="vanished">שכבה</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -4353,6 +4906,17 @@
         <source>Strings</source>
         <translation>מחרוזות</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+</context>
+<context>
+    <name>XExtractor</name>
+    <message>
+        <source>Mode is not available for this file type</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XExtractorWidget</name>
@@ -4382,7 +4946,7 @@
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>סריקה היוריסטית</translation>
+        <translation type="vanished">סריקה היוריסטית</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4390,31 +4954,35 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation>היסט</translation>
+        <translation type="vanished">היסט</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>כתובת</translation>
+        <translation type="vanished">כתובת</translation>
     </message>
     <message>
         <source>Size</source>
         <translation>גודל</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Dump to file</source>
-        <translation>יצא כקובץ הרצה לקובץ</translation>
+        <translation type="vanished">יצא כקובץ הרצה לקובץ</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>הקס</translation>
+        <translation type="vanished">הקס</translation>
     </message>
     <message>
         <source>Save dump</source>
         <translation>שמור מצב</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">הכל</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
     </message>
 </context>
 <context>
@@ -4463,168 +5031,215 @@
         <source>All files</source>
         <translation>כל הקבצים</translation>
     </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XFormats</name>
     <message>
         <source>obfuscator</source>
-        <translation>מערפל</translation>
+        <translation type="vanished">מערפל</translation>
     </message>
     <message>
         <source>Tool</source>
-        <translation>כלי</translation>
+        <translation type="vanished">כלי</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>ארכיון</translation>
+        <translation type="vanished">ארכיון</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>תעודה</translation>
+        <translation type="vanished">תעודה</translation>
     </message>
     <message>
         <source>Compiler</source>
-        <translation>מהדר</translation>
+        <translation type="vanished">מהדר</translation>
     </message>
     <message>
         <source>Converter</source>
-        <translation>ממיר</translation>
-    </message>
-    <message>
-        <source>Crypter</source>
-        <translation></translation>
+        <translation type="vanished">ממיר</translation>
     </message>
     <message>
         <source>Cryptor</source>
-        <translation>מצפין</translation>
+        <translation type="vanished">מצפין</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>נתונים</translation>
+        <translation type="vanished">נתונים</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>מסד נתונים</translation>
+        <translation type="vanished">מסד נתונים</translation>
     </message>
     <message>
         <source>Debug data</source>
-        <translation>נתוני מנפה שגיאות</translation>
+        <translation type="vanished">נתוני מנפה שגיאות</translation>
     </message>
     <message>
         <source>protection</source>
-        <translation>הגנה</translation>
+        <translation type="vanished">הגנה</translation>
     </message>
     <message>
         <source>extender</source>
-        <translation>מרחיב</translation>
+        <translation type="vanished">מרחיב</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>פורמט</translation>
+        <translation type="vanished">פורמט</translation>
     </message>
     <message>
         <source>Generic</source>
-        <translation>כללי</translation>
+        <translation type="vanished">כללי</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="vanished">תמונה</translation>
     </message>
     <message>
         <source>Installer</source>
-        <translation>קובץ התקנה</translation>
+        <translation type="vanished">קובץ התקנה</translation>
     </message>
     <message>
         <source>Installer data</source>
-        <translation>מידע קובץ התקנה</translation>
+        <translation type="vanished">מידע קובץ התקנה</translation>
     </message>
     <message>
         <source>Joiner</source>
-        <translation>מצמד</translation>
+        <translation type="vanished">מצמד</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>שפה</translation>
+        <translation type="vanished">שפה</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>ספריה</translation>
+        <translation type="vanished">ספריה</translation>
     </message>
     <message>
         <source>Linker</source>
-        <translation>לינקר</translation>
+        <translation type="vanished">לינקר</translation>
     </message>
     <message>
         <source>compressor</source>
-        <translation>דוחס</translation>
+        <translation type="vanished">דוחס</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>מערכת הפעלה</translation>
+        <translation type="vanished">מערכת הפעלה</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>שכבה</translation>
+        <translation type="vanished">שכבה</translation>
     </message>
     <message>
         <source>Packer</source>
-        <translation>דוחס</translation>
-    </message>
-    <message>
-        <source>Platform</source>
-        <translation></translation>
+        <translation type="vanished">דוחס</translation>
     </message>
     <message>
         <source>Player</source>
-        <translation>שחקן</translation>
+        <translation type="vanished">שחקן</translation>
     </message>
     <message>
         <source>Protection</source>
-        <translation>הֲגָנָה</translation>
+        <translation type="vanished">הֲגָנָה</translation>
     </message>
     <message>
         <source>Protector</source>
-        <translation>תוכנת הגנה</translation>
+        <translation type="vanished">תוכנת הגנה</translation>
     </message>
     <message>
         <source>Protector data</source>
-        <translation>מידע תוכנת הגנה</translation>
+        <translation type="vanished">מידע תוכנת הגנה</translation>
     </message>
     <message>
         <source>data</source>
-        <translation>מידע</translation>
+        <translation type="vanished">מידע</translation>
     </message>
     <message>
         <source>Sign tool</source>
-        <translation>כלי חתימה</translation>
+        <translation type="vanished">כלי חתימה</translation>
     </message>
     <message>
         <source>Source code</source>
-        <translation>קוד מקור</translation>
+        <translation type="vanished">קוד מקור</translation>
     </message>
     <message>
         <source>Stub</source>
-        <translation>שגרה</translation>
+        <translation type="vanished">שגרה</translation>
     </message>
     <message>
         <source>Virtual machine</source>
-        <translation>מכונה וירטואלית</translation>
-    </message>
-    <message>
-        <source>Virus</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Trojan</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Malware</source>
-        <translation></translation>
+        <translation type="vanished">מכונה וירטואלית</translation>
     </message>
     <message>
         <source>Package</source>
-        <translation>דוחס</translation>
+        <translation type="vanished">דוחס</translation>
+    </message>
+    <message>
+        <source>Cannot unpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path traversal detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot decompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XGif</name>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Logical Screen Descriptor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trailer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">תמונה</translation>
+    </message>
+    <message>
+        <source>Graphic Control Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -4636,6 +5251,18 @@
     <message>
         <source>Footer</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -4672,6 +5299,14 @@
         <source>Name</source>
         <translation>שם</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">אזורים</translation>
+    </message>
 </context>
 <context>
     <name>XHexEdit</name>
@@ -4700,15 +5335,11 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>נתונים בקוד</translation>
+        <translation type="vanished">נתונים בקוד</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>נתונים בקוד</translation>
-    </message>
-    <message>
-        <source>Multisearch</source>
-        <translation></translation>
+        <translation type="vanished">נתונים בקוד</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -4716,119 +5347,79 @@
     </message>
     <message>
         <source>Start</source>
-        <translation>אתחול</translation>
-    </message>
-    <message>
-        <source>End</source>
-        <translation></translation>
+        <translation type="vanished">אתחול</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>יצא כקובץ הרצה לקובץ</translation>
+        <translation type="vanished">יצא כקובץ הרצה לקובץ</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>חתימה</translation>
+        <translation type="vanished">חתימה</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>מחרוזת</translation>
+        <translation type="vanished">מחרוזת</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>ערך</translation>
+        <translation type="vanished">ערך</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>חפש את הבא</translation>
+        <translation type="vanished">חפש את הבא</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>בחר הכל</translation>
+        <translation type="vanished">בחר הכל</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>נתונים</translation>
+        <translation type="vanished">נתונים</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>פירוק לפקודות</translation>
+        <translation type="vanished">פירוק לפקודות</translation>
     </message>
     <message>
         <source>Memory map</source>
-        <translation>מפת זיכרון</translation>
-    </message>
-    <message>
-        <source>Patch</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation></translation>
+        <translation type="vanished">מפת זיכרון</translation>
     </message>
     <message>
         <source>Strings</source>
-        <translation>מחרוזות</translation>
-    </message>
-    <message>
-        <source>Visualization</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Scripts</source>
-        <translation></translation>
+        <translation type="vanished">מחרוזות</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation>מעבר אל</translation>
+        <translation type="vanished">מעבר אל</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>בחירה</translation>
+        <translation type="vanished">בחירה</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>חפש</translation>
+        <translation type="vanished">חפש</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>בחר</translation>
+        <translation type="vanished">בחר</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">העתק</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>עריכה</translation>
+        <translation type="vanished">עריכה</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>סימניות</translation>
+        <translation type="vanished">סימניות</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>מצב</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation></translation>
+        <translation type="vanished">מצב</translation>
     </message>
 </context>
 <context>
@@ -4846,7 +5437,7 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>נתונים בקוד</translation>
+        <translation type="vanished">נתונים בקוד</translation>
     </message>
     <message>
         <source>Strings</source>
@@ -4858,15 +5449,27 @@
     </message>
     <message>
         <source>Hex</source>
-        <translation>הקס</translation>
+        <translation type="vanished">הקס</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>בחירה</translation>
+        <translation type="vanished">בחירה</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>גודל</translation>
+        <translation type="vanished">גודל</translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">סוג</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4874,6 +5477,18 @@
     <message>
         <source>Header</source>
         <translation>כותרת</translation>
+    </message>
+    <message>
+        <source>Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -4929,6 +5544,14 @@
         <source>Open directory</source>
         <translation>פתח תיקייה</translation>
     </message>
+    <message>
+        <source>Info database update URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XInfoMenu</name>
@@ -4946,7 +5569,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>נקה</translation>
+        <translation type="vanished">נקה</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4956,13 +5579,17 @@
         <source>All files</source>
         <translation>כל הקבצים</translation>
     </message>
-    <message>
+    <message id="XBinary::getDeviceDirectory(m_pXInfoDB->getDevice());">
         <source>Open file</source>
         <translation>פתח קובץ</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם אתה בטוח?</translation>
+        <translation type="vanished">האם אתה בטוח?</translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4986,24 +5613,32 @@
         <source>Data</source>
         <translation>נתונים</translation>
     </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
 </context>
 <context>
     <name>XLE</name>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>לְהִתְנַגֵד</translation>
+        <translation type="vanished">לְהִתְנַגֵד</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>שכבה</translation>
+        <translation type="vanished">שכבה</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -5011,6 +5646,14 @@
     <message>
         <source>Header</source>
         <translation>כותרת</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -5055,15 +5698,15 @@
     <name>XMACH</name>
     <message>
         <source>Segment</source>
-        <translation>חלק</translation>
+        <translation type="vanished">חלק</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>אזור</translation>
+        <translation type="vanished">אזור</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -5076,6 +5719,14 @@
         <source>Header</source>
         <translation>כותרת</translation>
     </message>
+    <message>
+        <source>Universal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMP3</name>
@@ -5083,20 +5734,39 @@
         <source>Header</source>
         <translation>כותרת</translation>
     </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
+</context>
+<context>
+    <name>XMP4</name>
+    <message>
+        <source>Boxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">כותרת</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
 </context>
 <context>
     <name>XMSDOS</name>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>שכבה</translation>
+        <translation type="vanished">שכבה</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -5167,7 +5837,7 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>יצא כקובץ הרצה לקובץ</translation>
+        <translation type="vanished">יצא כקובץ הרצה לקובץ</translation>
     </message>
     <message>
         <source>Dump</source>
@@ -5180,6 +5850,14 @@
     <message>
         <source>Raw data</source>
         <translation>מידע גולמי</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">טען מחדש</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">חפש</translation>
     </message>
 </context>
 <context>
@@ -5200,12 +5878,40 @@
         <source>Readonly</source>
         <translation>לקריאה בלבד</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Method</source>
+        <translation type="unfinished">שיטה</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">נוף</translation>
+    </message>
+    <message>
+        <source>Compact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XNE</name>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -5267,6 +5973,10 @@
     <message>
         <source>Documents</source>
         <translation>מסמכים</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">לא ידוע</translation>
     </message>
 </context>
 <context>
@@ -5371,6 +6081,26 @@
         <source>Please restart the application</source>
         <translation>אנא הפעל את התוכנית מחדש</translation>
     </message>
+    <message>
+        <source>Set system environment variable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AVX2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Features</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XPDF</name>
@@ -5386,122 +6116,170 @@
         <source>Footer</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">לא ידוע</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">מסמך</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">תמונה</translation>
+    </message>
+    <message>
+        <source>Color palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
 </context>
 <context>
     <name>XPE</name>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation>יישום</translation>
+        <translation type="vanished">יישום</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation>לְנַחֵם</translation>
+        <translation type="vanished">לְנַחֵם</translation>
     </message>
     <message>
         <source>Driver</source>
-        <translation>נהג</translation>
+        <translation type="vanished">נהג</translation>
     </message>
     <message>
         <source>Boot application</source>
-        <translation>יישום אתחול</translation>
+        <translation type="vanished">יישום אתחול</translation>
     </message>
     <message>
         <source>Runtime driver</source>
-        <translation>נהג זמן ריצה</translation>
+        <translation type="vanished">נהג זמן ריצה</translation>
     </message>
     <message>
         <source>Boot service driver</source>
-        <translation>מנהל התקן שירות אתחול</translation>
+        <translation type="vanished">מנהל התקן שירות אתחול</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>אזור</translation>
+        <translation type="vanished">אזור</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>שכבה</translation>
+        <translation type="vanished">שכבה</translation>
     </message>
     <message>
         <source>Cannot open file</source>
-        <translation>לא ניתן לפתוח את הקובץ</translation>
+        <translation type="vanished">לא ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
         <source>The file is signed and the signature was verified</source>
-        <translation>הקובץ חתום והחתימה אומתה</translation>
+        <translation type="vanished">הקובץ חתום והחתימה אומתה</translation>
     </message>
     <message>
         <source>The file is not signed</source>
-        <translation>הקובץ אינו חתום</translation>
+        <translation type="vanished">הקובץ אינו חתום</translation>
     </message>
     <message>
         <source>The signature is present, but specifically disallowed</source>
-        <translation>החתימה קיימת, אך אסורה במיוחד</translation>
+        <translation type="vanished">החתימה קיימת, אך אסורה במיוחד</translation>
     </message>
     <message>
         <source>The signature is present, but not trusted</source>
-        <translation>החתימה קיימת אך אינה מהימנה</translation>
+        <translation type="vanished">החתימה קיימת אך אינה מהימנה</translation>
     </message>
     <message>
         <source>The signature error</source>
-        <translation>טעות החתימה</translation>
+        <translation type="vanished">טעות החתימה</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="vanished">שגיאה</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>כתובת תחילת הריצה</translation>
+        <translation type="vanished">כתובת תחילת הריצה</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>יצא</translation>
+        <translation type="vanished">יצא</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>פונקציות מיובאות</translation>
+        <translation type="vanished">פונקציות מיובאות</translation>
     </message>
     <message>
         <source>Relocs</source>
-        <translation>עוברת דירה מחדש</translation>
+        <translation type="vanished">עוברת דירה מחדש</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>משאבי קובץ</translation>
+        <translation type="vanished">משאבי קובץ</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>תעודה</translation>
+        <translation type="vanished">תעודה</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>לא תקין</translation>
+        <translation type="vanished">לא תקין</translation>
     </message>
 </context>
 <context>
     <name>XPNG</name>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
     <name>XRar</name>
     <message>
         <source>Header</source>
-        <translation>כותרת</translation>
+        <translation type="vanished">כותרת</translation>
     </message>
     <message>
         <source>Data</source>
         <translation>נתונים</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">חתימה</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -5512,7 +6290,31 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>לא ידוע</translation>
+        <translation type="vanished">לא ידוע</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
+    <message>
+        <source>Invalid data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected end of data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot unpack data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid format data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5779,7 +6581,7 @@
     </message>
     <message>
         <source>CPU</source>
-        <translation>מעבד</translation>
+        <translation type="vanished">מעבד</translation>
     </message>
     <message>
         <source>Log</source>
@@ -5907,15 +6709,43 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>נתונים בקוד</translation>
+        <translation type="vanished">נתונים בקוד</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>נתונים בקוד</translation>
+        <translation type="vanished">נתונים בקוד</translation>
     </message>
     <message>
         <source>Multisearch</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convertor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5957,27 +6787,42 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>כתובת</translation>
+        <translation type="vanished">כתובת</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>סֵמֶל</translation>
+        <translation type="vanished">סֵמֶל</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>גודל</translation>
+        <translation type="vanished">גודל</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
-    </message>
-    <message>
-        <source>Code</source>
-        <translation></translation>
+        <translation type="vanished">שם</translation>
     </message>
     <message>
         <source>Symbols</source>
         <translation>סמלים</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">טען מחדש</translation>
+    </message>
+</context>
+<context>
+    <name>XTAR</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">כותרת</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -5989,6 +6834,93 @@
     <message>
         <source>Table</source>
         <translation>טבלה</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
+    </message>
+</context>
+<context>
+    <name>XUpdate</name>
+    <message>
+        <source>Cannot find ZIP asset %1 in release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracting %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create temporary unpack directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid ZIP archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open downloaded ZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>updated successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to extract %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported GitHub release URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot fetch release metadata for %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid release body for %1. Expected date=yyyy-MM-dd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No local info.ini for %1. Bootstrapping from GitHub release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read local info.ini for %1, skipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Updating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is up to date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6057,6 +6989,41 @@
         <source>Error</source>
         <translation>שגיאה</translation>
     </message>
+    <message>
+        <source>First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XVisualization</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">אנטרופיה</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zeros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">טֶקסט</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">לא ידוע</translation>
+    </message>
 </context>
 <context>
     <name>XVisualizationWidget</name>
@@ -6110,23 +7077,27 @@
     </message>
     <message>
         <source>Entropy</source>
-        <translation>אנטרופיה</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Zeros</source>
-        <translation></translation>
+        <translation type="vanished">אנטרופיה</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>טֶקסט</translation>
+        <translation type="vanished">טֶקסט</translation>
     </message>
     <message>
         <source>Visualization</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+    <message>
+        <source>Methods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6134,6 +7105,53 @@
     <message>
         <source>Start</source>
         <translation>אתחול</translation>
+    </message>
+    <message>
+        <source>Invalid YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open rules file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No YARA rules were loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA rules path not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot build YARA rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open scan target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA scan failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XZip</name>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -6147,8 +7165,27 @@
         <translation>נתונים</translation>
     </message>
     <message>
-        <source>Footer</source>
-        <translation></translation>
+        <source>Adler32</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>X_Ar</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">כותרת</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">נתונים</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">שכבה</translation>
     </message>
 </context>
 <context>
@@ -6192,6 +7229,18 @@
     <message>
         <source>Cannot save file</source>
         <translation>לא ניתן לשמור את הקובץ</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">תוצאה</translation>
+    </message>
+    <message>
+        <source>Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rule name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

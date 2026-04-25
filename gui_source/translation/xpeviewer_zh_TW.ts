@@ -126,12 +126,13 @@
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
-</context>
-<context>
-    <name>Binary_Script</name>
     <message>
-        <source>Invalid handle</source>
-        <translation></translation>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -164,7 +165,7 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation>過濾</translation>
+        <translation type="vanished">過濾</translation>
     </message>
     <message>
         <source>Save</source>
@@ -210,6 +211,14 @@
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEOptionsWidget</name>
@@ -246,10 +255,6 @@
         <translation>標記</translation>
     </message>
     <message>
-        <source>Buffer size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Scan</source>
         <translation>掃描</translation>
     </message>
@@ -265,6 +270,30 @@
         <source>Open directory</source>
         <translation>打開目錄</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
+    </message>
+    <message>
+        <source>Aggressive scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra database</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEWidgetAdvanced</name>
@@ -278,27 +307,27 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>選項</translation>
+        <translation type="vanished">選項</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>深層掃描</translation>
+        <translation type="vanished">深層掃描</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>遞歸掃描</translation>
+        <translation type="vanished">遞歸掃描</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>詳細模式</translation>
+        <translation type="vanished">詳細模式</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>所有類型</translation>
+        <translation type="vanished">所有類型</translation>
     </message>
     <message>
         <source>Signatures</source>
@@ -328,6 +357,26 @@
         <source>Cannot save file</source>
         <translation>無法保存檔案</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">資料庫</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">結果</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Signature name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIE_Widget</name>
@@ -337,19 +386,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>遞歸掃描</translation>
+        <translation type="vanished">遞歸掃描</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>深層掃描</translation>
+        <translation type="vanished">深層掃描</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>詳細模式</translation>
+        <translation type="vanished">詳細模式</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -361,7 +410,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>所有類型</translation>
+        <translation type="vanished">所有類型</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -379,12 +428,24 @@
         <source>Copy as</source>
         <translation>複製為</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">資料庫</translation>
+    </message>
 </context>
 <context>
     <name>DiE_Script</name>
     <message>
         <source>Cannot load database</source>
-        <translation>無法加載數據庫</translation>
+        <translation type="vanished">無法加載數據庫</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
     </message>
 </context>
 <context>
@@ -503,6 +564,21 @@
     </message>
 </context>
 <context>
+    <name>DialogCreateViewModel</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <source>Invalid parameters provided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name cannot be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DialogDIEScanDirectory</name>
     <message>
         <source>Directory scan</source>
@@ -518,23 +594,23 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>遞歸掃描</translation>
+        <translation type="vanished">遞歸掃描</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>深層掃描</translation>
+        <translation type="vanished">深層掃描</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>詳細模式</translation>
+        <translation type="vanished">詳細模式</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>所有類型</translation>
+        <translation type="vanished">所有類型</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -567,6 +643,10 @@
     <message>
         <source>Save result</source>
         <translation>保存結果</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
     </message>
 </context>
 <context>
@@ -629,7 +709,7 @@
     </message>
     <message>
         <source>Show options</source>
-        <translation>顯示選項</translation>
+        <translation type="vanished">顯示選項</translation>
     </message>
     <message>
         <source>Show version</source>
@@ -655,6 +735,10 @@
         <source>msec</source>
         <translation>毫秒</translation>
     </message>
+    <message>
+        <source>Show info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogDIESignaturesElapsed</name>
@@ -679,7 +763,7 @@
     <name>DialogDataInspector</name>
     <message>
         <source>Data inspector</source>
-        <translation>資料檢驗器</translation>
+        <translation type="vanished">資料檢驗器</translation>
     </message>
     <message>
         <source>Endianness</source>
@@ -717,6 +801,10 @@
         <source>Binary</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogDemangle</name>
@@ -744,7 +832,7 @@
     <name>DialogDumpProcess</name>
     <message>
         <source>Dump</source>
-        <translation>轉存</translation>
+        <translation type="vanished">轉存</translation>
     </message>
 </context>
 <context>
@@ -956,66 +1044,66 @@
     <name>DialogMultiDisasmSignature</name>
     <message>
         <source>Signature</source>
-        <translation>簽章</translation>
+        <translation type="vanished">簽章</translation>
     </message>
     <message>
         <source>Spaces</source>
-        <translation>空格</translation>
+        <translation type="vanished">空格</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation>大寫</translation>
+        <translation type="vanished">大寫</translation>
     </message>
     <message>
         <source>Wildcard</source>
-        <translation>任意符號</translation>
+        <translation type="vanished">任意符號</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation>掃描</translation>
+        <translation type="vanished">掃描</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>複製</translation>
+        <translation type="vanished">複製</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>確定</translation>
+        <translation type="vanished">確定</translation>
     </message>
     <message>
         <source>Relative virtual address</source>
-        <translation>相對虛擬位址</translation>
+        <translation type="vanished">相對虛擬位址</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation type="vanished">位址</translation>
     </message>
     <message>
         <source>Bytes</source>
-        <translation>位元組</translation>
+        <translation type="vanished">位元組</translation>
     </message>
     <message>
         <source>Opcode</source>
-        <translation>操作碼</translation>
+        <translation type="vanished">操作碼</translation>
     </message>
 </context>
 <context>
     <name>DialogMultiSearchProcess</name>
     <message>
         <source>Search strings</source>
-        <translation>搜索字串</translation>
+        <translation type="vanished">搜索字串</translation>
     </message>
     <message>
         <source>Search signatures</source>
-        <translation>搜尋簽名</translation>
+        <translation type="vanished">搜尋簽名</translation>
     </message>
     <message>
         <source>Search values</source>
-        <translation>搜尋值</translation>
+        <translation type="vanished">搜尋值</translation>
     </message>
     <message>
         <source>Create view model</source>
-        <translation>建立視圖模型</translation>
+        <translation type="vanished">建立視圖模型</translation>
     </message>
 </context>
 <context>
@@ -1045,23 +1133,23 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>遞歸掃描</translation>
+        <translation type="vanished">遞歸掃描</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>深層掃描</translation>
+        <translation type="vanished">深層掃描</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>詳細模式</translation>
+        <translation type="vanished">詳細模式</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>所有類型</translation>
+        <translation type="vanished">所有類型</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -1095,16 +1183,20 @@
         <source>Save result</source>
         <translation>保存結果</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
+    </message>
 </context>
 <context>
     <name>DialogNFDScanProcess</name>
     <message>
         <source>Text documents</source>
-        <translation>文件檔</translation>
+        <translation type="vanished">文件檔</translation>
     </message>
     <message>
         <source>Save result</source>
-        <translation>保存結果</translation>
+        <translation type="vanished">保存結果</translation>
     </message>
 </context>
 <context>
@@ -1245,16 +1337,24 @@
         <source>Cursor</source>
         <translation>目前位址</translation>
     </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">類型</translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">十六進制</translation>
+    </message>
 </context>
 <context>
     <name>DialogSearchProcess</name>
     <message>
         <source>Search</source>
-        <translation>搜尋</translation>
+        <translation type="vanished">搜尋</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
 </context>
 <context>
@@ -1368,6 +1468,85 @@
     <message>
         <source>Close</source>
         <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Image information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <source>Image file does not exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to load image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit to Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">複製</translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished">另存新檔</translation>
+    </message>
+    <message>
+        <source>Save Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished">影像</translation>
+    </message>
+    <message>
+        <source>Failed to save image to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No image loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">大小</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">格式</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DialogShowText</name>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">文字</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">關閉</translation>
     </message>
 </context>
 <context>
@@ -1532,6 +1711,22 @@
         <source>Background</source>
         <translation>背景</translation>
     </message>
+    <message>
+        <source>Text color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>String</source>
+        <translation type="unfinished">字串</translation>
+    </message>
 </context>
 <context>
     <name>DialogVisualization</name>
@@ -1588,39 +1783,31 @@
     <name>DialogXInfoDBTransferProcess</name>
     <message>
         <source>Analyze</source>
-        <translation>分析</translation>
+        <translation type="vanished">分析</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>反組譯</translation>
+        <translation type="vanished">反組譯</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>符號</translation>
+        <translation type="vanished">符號</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation type="vanished">清除</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation type="vanished">移除</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>出口</translation>
+        <translation type="vanished">出口</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>進口</translation>
-    </message>
-    <message>
-        <source>Scan for IAT</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Get IAT</source>
-        <translation></translation>
+        <translation type="vanished">進口</translation>
     </message>
 </context>
 <context>
@@ -1635,11 +1822,11 @@
     </message>
     <message>
         <source>Functions</source>
-        <translation>函式</translation>
+        <translation type="vanished">函式</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>引用</translation>
+        <translation type="vanished">引用</translation>
     </message>
 </context>
 <context>
@@ -1777,11 +1964,11 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation>編輯</translation>
+        <translation type="vanished">編輯</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>解構</translation>
+        <translation type="vanished">解構</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1793,7 +1980,15 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>轉存到檔案</translation>
+        <translation type="vanished">轉存到檔案</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1890,6 +2085,10 @@
     <message>
         <source>Value</source>
         <translation>值</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
     </message>
 </context>
 <context>
@@ -2037,6 +2236,18 @@
     <message>
         <source>Open directory</source>
         <translation>打開目錄</translation>
+    </message>
+    <message>
+        <source>Scan engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">存檔記錄</translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2240,6 +2451,14 @@
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MACHOFATWidget</name>
@@ -2416,6 +2635,14 @@
         <source>Demangle</source>
         <translation>解構</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSDOSWidget</name>
@@ -2475,40 +2702,64 @@
         <source>Overlay</source>
         <translation>覆蓋</translation>
     </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">轉存</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiSearch</name>
     <message>
         <source>Number</source>
-        <translation>數字</translation>
+        <translation type="vanished">數字</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>偏移</translation>
+        <translation type="vanished">偏移</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation type="vanished">位址</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>大小</translation>
+        <translation type="vanished">大小</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>類型</translation>
+        <translation type="vanished">類型</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>字串</translation>
+        <translation type="vanished">字串</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>值</translation>
+        <translation type="vanished">值</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>名稱</translation>
+        <translation type="vanished">名稱</translation>
+    </message>
+    <message>
+        <source>Search strings</source>
+        <translation type="unfinished">搜索字串</translation>
+    </message>
+    <message>
+        <source>Search signatures</source>
+        <translation type="unfinished">搜尋簽名</translation>
+    </message>
+    <message>
+        <source>Search values</source>
+        <translation type="unfinished">搜尋值</translation>
     </message>
 </context>
 <context>
@@ -2580,6 +2831,14 @@
         <source>Overlay</source>
         <translation>覆蓋</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDOptionsWidget</name>
@@ -2611,6 +2870,10 @@
         <source>Highlight</source>
         <translation>標記</translation>
     </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDWidgetAdvanced</name>
@@ -2620,27 +2883,27 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>選項</translation>
+        <translation type="vanished">選項</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>遞歸掃描</translation>
+        <translation type="vanished">遞歸掃描</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>深層掃描</translation>
+        <translation type="vanished">深層掃描</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>詳細模式</translation>
+        <translation type="vanished">詳細模式</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>所有類型</translation>
+        <translation type="vanished">所有類型</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2656,7 +2919,7 @@
     </message>
     <message>
         <source>Result</source>
-        <translation>結果</translation>
+        <translation type="vanished">結果</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2665,6 +2928,30 @@
     <message>
         <source>Value</source>
         <translation>值</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">旗標</translation>
+    </message>
+    <message>
+        <source>Heuristics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text files</source>
+        <translation type="unfinished">文本檔案</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation type="unfinished">所有檔案</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <source>Cannot save file</source>
+        <translation type="unfinished">無法保存檔案</translation>
     </message>
 </context>
 <context>
@@ -2675,19 +2962,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>遞歸掃描</translation>
+        <translation type="vanished">遞歸掃描</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>深層掃描</translation>
+        <translation type="vanished">深層掃描</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>詳細模式</translation>
+        <translation type="vanished">詳細模式</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -2695,7 +2982,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>所有類型</translation>
+        <translation type="vanished">所有類型</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -2707,7 +2994,7 @@
     </message>
     <message>
         <source>msec</source>
-        <translation>毫秒</translation>
+        <translation type="vanished">毫秒</translation>
     </message>
 </context>
 <context>
@@ -3164,6 +3451,14 @@
         <source>Demangle</source>
         <translation>解構</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -3219,6 +3514,182 @@
         <source>Cannot open file</source>
         <translation>無法打開檔案</translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">標頭</translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished">虛擬化</translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">十六進制</translation>
+    </message>
+    <message>
+        <source>Disasm</source>
+        <translation type="unfinished">反組譯</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">存檔記錄</translation>
+    </message>
+    <message>
+        <source>Hash</source>
+        <translation type="unfinished">雜湊值</translation>
+    </message>
+    <message>
+        <source>Strings</source>
+        <translation type="unfinished">字串</translation>
+    </message>
+    <message>
+        <source>Signatures</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">區域</translation>
+    </message>
+    <message>
+        <source>Memory map</source>
+        <translation type="unfinished">記憶體區塊</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished">符號</translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">熵值</translation>
+    </message>
+    <message>
+        <source>Extractor</source>
+        <translation type="unfinished">擷取器</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">搜尋</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">檔案</translation>
+    </message>
+    <message>
+        <source>Resource</source>
+        <translation type="unfinished">資源</translation>
+    </message>
+    <message>
+        <source>Region</source>
+        <translation type="unfinished">地區</translation>
+    </message>
+    <message>
+        <source>Debug data</source>
+        <translation type="unfinished">調試數據</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished">部分</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Segment</source>
+        <translation type="unfinished">分段</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation type="unfinished">物件</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">表格</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="unfinished">處理</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">音頻</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">檔案</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">映像檔</translation>
+    </message>
+    <message>
+        <source>Plain Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">文字</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished">影片</translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">資訊</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read error</source>
+        <translation type="unfinished">讀取錯誤</translation>
+    </message>
+    <message>
+        <source>Architecture</source>
+        <translation type="unfinished">架構</translation>
+    </message>
+    <message>
+        <source>Raw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">格式</translation>
+    </message>
+    <message>
+        <source>Heuristic</source>
+        <translation type="unfinished">啟發式</translation>
+    </message>
 </context>
 <context>
     <name>QwtPlotRenderer</name>
@@ -3254,7 +3725,7 @@
     <name>ScanItemModel</name>
     <message>
         <source>Result</source>
-        <translation>結果</translation>
+        <translation type="vanished">結果</translation>
     </message>
 </context>
 <context>
@@ -3300,31 +3771,39 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>複製</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">複製</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>名稱</translation>
+        <translation type="vanished">名稱</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>簽章</translation>
+        <translation type="vanished">簽章</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation type="vanished">位址</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>偏移</translation>
+        <translation type="vanished">偏移</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>十六進制</translation>
+        <translation type="vanished">十六進制</translation>
+    </message>
+    <message>
+        <source>Patch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">資訊</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">結果</translation>
     </message>
 </context>
 <context>
@@ -3335,7 +3814,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>選項</translation>
+        <translation type="vanished">選項</translation>
     </message>
     <message>
         <source>Null-terminated</source>
@@ -3346,20 +3825,12 @@
         <translation>連結</translation>
     </message>
     <message>
-        <source>Min size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
     <message>
-        <source>Code page</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Filter</source>
-        <translation>過濾</translation>
+        <translation type="vanished">過濾</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3370,24 +3841,20 @@
         <translation>字串</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Edit</source>
-        <translation>編輯</translation>
+        <translation type="vanished">編輯</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>十六進制</translation>
+        <translation type="vanished">十六進制</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>解構</translation>
+        <translation type="vanished">解構</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>字串</translation>
+        <translation type="vanished">字串</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3396,6 +3863,46 @@
     <message>
         <source>Cannot save file</source>
         <translation>無法保存檔案</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
+    </message>
+    <message>
+        <source>Mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">結果</translation>
+    </message>
+    <message>
+        <source>Searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>strings found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>msec</source>
+        <translation type="unfinished">毫秒</translation>
+    </message>
+    <message>
+        <source>strings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3429,71 +3936,87 @@
         <translation>值</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Hex</source>
-        <translation>十六進制</translation>
+        <translation type="vanished">十六進制</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>反組譯</translation>
+        <translation type="vanished">反組譯</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
+    </message>
+    <message>
+        <source>Search string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">結果</translation>
     </message>
 </context>
 <context>
     <name>SpecAbstract</name>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
     <message>
         <source>Virus</source>
-        <translation>病毒</translation>
+        <translation type="vanished">病毒</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>覆蓋</translation>
+        <translation type="vanished">覆蓋</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>入口點</translation>
+        <translation type="vanished">入口點</translation>
     </message>
     <message>
         <source>Section name</source>
-        <translation>分段名稱</translation>
+        <translation type="vanished">分段名稱</translation>
     </message>
     <message>
         <source>Import hash</source>
-        <translation>導入哈希</translation>
+        <translation type="vanished">導入哈希</translation>
     </message>
     <message>
         <source>Code section</source>
-        <translation>代碼段</translation>
+        <translation type="vanished">代碼段</translation>
     </message>
     <message>
         <source>Entry point section</source>
-        <translation>入口點段</translation>
+        <translation type="vanished">入口點段</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>字串</translation>
+        <translation type="vanished">字串</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>存檔記錄</translation>
+        <translation type="vanished">存檔記錄</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>資源</translation>
+        <translation type="vanished">資源</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>類型</translation>
+        <translation type="vanished">類型</translation>
     </message>
 </context>
 <context>
@@ -3513,6 +4036,13 @@
     <message>
         <source>Directory scan</source>
         <translation>目錄掃描</translation>
+    </message>
+</context>
+<context>
+    <name>StaticScanItemModel</name>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">結果</translation>
     </message>
 </context>
 <context>
@@ -3580,7 +4110,7 @@
     </message>
     <message>
         <source>Check updates</source>
-        <translation>檢查更新</translation>
+        <translation type="vanished">檢查更新</translation>
     </message>
     <message>
         <source>Libraries</source>
@@ -3614,12 +4144,13 @@
         <source>The value copied to clipboard</source>
         <translation>值已複製到剪貼版</translation>
     </message>
-</context>
-<context>
-    <name>XAbstractTableView</name>
     <message>
-        <source>Invalid font</source>
-        <translation></translation>
+        <source>Check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Social Media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3631,6 +4162,25 @@
     <message>
         <source>Archive</source>
         <translation>存檔記錄</translation>
+    </message>
+    <message>
+        <source>extender</source>
+        <translation type="unfinished">擴展器</translation>
+    </message>
+</context>
+<context>
+    <name>XBMP</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">標頭</translation>
+    </message>
+    <message>
+        <source>Bitmap Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -3665,55 +4215,43 @@
     </message>
     <message>
         <source>Region</source>
-        <translation>地區</translation>
+        <translation type="vanished">地區</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation>處理</translation>
+        <translation type="vanished">處理</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>存檔記錄</translation>
+        <translation type="vanished">存檔記錄</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>音頻</translation>
+        <translation type="vanished">音頻</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation>檔案</translation>
+        <translation type="vanished">檔案</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>映像檔</translation>
-    </message>
-    <message>
-        <source>Plain Text</source>
-        <translation></translation>
+        <translation type="vanished">映像檔</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>簽章</translation>
-    </message>
-    <message>
-        <source>tar</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>tar.gz</source>
-        <translation></translation>
+        <translation type="vanished">簽章</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>文字</translation>
+        <translation type="vanished">文字</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>影片</translation>
+        <translation type="vanished">影片</translation>
     </message>
     <message>
         <source>Signatures</source>
-        <translation>簽章</translation>
+        <translation type="vanished">簽章</translation>
     </message>
     <message>
         <source>Read error</source>
@@ -3801,7 +4339,7 @@
     </message>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -3809,25 +4347,76 @@
     </message>
     <message>
         <source>Archive record</source>
-        <translation>存檔記錄</translation>
+        <translation type="vanished">存檔記錄</translation>
     </message>
     <message>
         <source>Resource</source>
-        <translation>資源</translation>
+        <translation type="vanished">資源</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Streams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">資訊</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <source>Corrupted data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <translation type="unfinished">總計</translation>
     </message>
 </context>
 <context>
     <name>XCOM</name>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
+    </message>
+</context>
+<context>
+    <name>XCab</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">標頭</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
     <name>XCapstone</name>
     <message>
         <source>Invalid opcode</source>
-        <translation>無效的操作碼</translation>
+        <translation type="vanished">無效的操作碼</translation>
     </message>
 </context>
 <context>
@@ -3851,12 +4440,16 @@
         <source>Overlay</source>
         <translation>覆蓋</translation>
     </message>
+    <message>
+        <source>Main module</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XDataConvertor</name>
     <message>
         <source>Read error</source>
-        <translation>讀取錯誤</translation>
+        <translation type="vanished">讀取錯誤</translation>
     </message>
     <message>
         <source>Write error</source>
@@ -3942,20 +4535,32 @@
         <source>Cannot resize</source>
         <translation>無法縮放大小</translation>
     </message>
+    <message>
+        <source>Save dump</source>
+        <translation type="unfinished">保存轉存</translation>
+    </message>
+    <message>
+        <source>Raw data</source>
+        <translation type="unfinished">原始資料</translation>
+    </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">轉存</translation>
+    </message>
 </context>
 <context>
     <name>XDeviceTableView</name>
     <message>
         <source>Save dump</source>
-        <translation>保存轉存</translation>
+        <translation type="vanished">保存轉存</translation>
     </message>
     <message>
         <source>Raw data</source>
-        <translation>原始資料</translation>
+        <translation type="vanished">原始資料</translation>
     </message>
     <message>
         <source>Dump</source>
-        <translation>轉存</translation>
+        <translation type="vanished">轉存</translation>
     </message>
     <message>
         <source>Nothing found</source>
@@ -3979,6 +4584,18 @@
     <message>
         <source>Info</source>
         <translation>資訊</translation>
+    </message>
+    <message>
+        <source>Elapsed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remaining:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4005,111 +4622,107 @@
     </message>
     <message>
         <source>Go to</source>
-        <translation>跳至</translation>
+        <translation type="vanished">跳至</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>搜尋</translation>
+        <translation type="vanished">搜尋</translation>
     </message>
     <message>
         <source>Analyze</source>
-        <translation>分析</translation>
+        <translation type="vanished">分析</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>十六進制</translation>
+        <translation type="vanished">十六進制</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>選擇</translation>
+        <translation type="vanished">選擇</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>複製</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">複製</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>編輯</translation>
+        <translation type="vanished">編輯</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>書籤</translation>
+        <translation type="vanished">書籤</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>轉存到檔案</translation>
+        <translation type="vanished">轉存到檔案</translation>
     </message>
     <message>
         <source>Hex signature</source>
-        <translation>十六進制簽名</translation>
+        <translation type="vanished">十六進制簽名</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>簽章</translation>
+        <translation type="vanished">簽章</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>字串</translation>
+        <translation type="vanished">字串</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>值</translation>
+        <translation type="vanished">值</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>搜尋下一個</translation>
+        <translation type="vanished">搜尋下一個</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation type="vanished">全選</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>資料</translation>
+        <translation type="vanished">資料</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>引用</translation>
+        <translation type="vanished">引用</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>所有</translation>
+        <translation type="vanished">所有</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>反組譯</translation>
+        <translation type="vanished">反組譯</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation type="vanished">移除</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>符號</translation>
+        <translation type="vanished">符號</translation>
     </message>
     <message>
         <source>Functions</source>
-        <translation>函式</translation>
+        <translation type="vanished">函式</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation type="vanished">清除</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>新</translation>
+        <translation type="vanished">新</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>列表</translation>
+        <translation type="vanished">列表</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>入口點</translation>
+        <translation type="vanished">入口點</translation>
     </message>
     <message>
         <source>Relative address</source>
@@ -4272,15 +4885,15 @@
     <name>XELF</name>
     <message>
         <source>Section</source>
-        <translation>部分</translation>
+        <translation type="vanished">部分</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>覆蓋</translation>
+        <translation type="vanished">覆蓋</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
 </context>
 <context>
@@ -4353,6 +4966,17 @@
         <source>Strings</source>
         <translation>字串</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
+    </message>
+</context>
+<context>
+    <name>XExtractor</name>
+    <message>
+        <source>Mode is not available for this file type</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XExtractorWidget</name>
@@ -4382,7 +5006,7 @@
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>啟發式掃描</translation>
+        <translation type="vanished">啟發式掃描</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4390,31 +5014,35 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation>偏移</translation>
+        <translation type="vanished">偏移</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation type="vanished">位址</translation>
     </message>
     <message>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Dump to file</source>
-        <translation>轉存到檔案</translation>
+        <translation type="vanished">轉存到檔案</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>十六進制</translation>
+        <translation type="vanished">十六進制</translation>
     </message>
     <message>
         <source>Save dump</source>
         <translation>保存轉存</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">所有</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
     </message>
 </context>
 <context>
@@ -4463,168 +5091,227 @@
         <source>All files</source>
         <translation>所有檔案</translation>
     </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XFormats</name>
     <message>
         <source>obfuscator</source>
-        <translation>模糊器</translation>
+        <translation type="vanished">模糊器</translation>
     </message>
     <message>
         <source>Tool</source>
-        <translation>工具</translation>
+        <translation type="vanished">工具</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>存檔記錄</translation>
+        <translation type="vanished">存檔記錄</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>證書</translation>
+        <translation type="vanished">證書</translation>
     </message>
     <message>
         <source>Compiler</source>
-        <translation>編譯器</translation>
+        <translation type="vanished">編譯器</translation>
     </message>
     <message>
         <source>Converter</source>
-        <translation>轉換器</translation>
-    </message>
-    <message>
-        <source>Crypter</source>
-        <translation></translation>
+        <translation type="vanished">轉換器</translation>
     </message>
     <message>
         <source>Cryptor</source>
-        <translation>加密器</translation>
+        <translation type="vanished">加密器</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>資料</translation>
+        <translation type="vanished">資料</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>資料庫</translation>
+        <translation type="vanished">資料庫</translation>
     </message>
     <message>
         <source>Debug data</source>
-        <translation>調試數據</translation>
+        <translation type="vanished">調試數據</translation>
     </message>
     <message>
         <source>protection</source>
-        <translation>保護</translation>
+        <translation type="vanished">保護</translation>
     </message>
     <message>
         <source>extender</source>
-        <translation>擴展器</translation>
+        <translation type="vanished">擴展器</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>格式</translation>
+        <translation type="vanished">格式</translation>
     </message>
     <message>
         <source>Generic</source>
-        <translation>通用</translation>
+        <translation type="vanished">通用</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>映像檔</translation>
+        <translation type="vanished">映像檔</translation>
     </message>
     <message>
         <source>Installer</source>
-        <translation>安裝程序</translation>
+        <translation type="vanished">安裝程序</translation>
     </message>
     <message>
         <source>Installer data</source>
-        <translation>安裝人員數據</translation>
+        <translation type="vanished">安裝人員數據</translation>
     </message>
     <message>
         <source>Joiner</source>
-        <translation>合併工具</translation>
+        <translation type="vanished">合併工具</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>語言</translation>
+        <translation type="vanished">語言</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>函示庫</translation>
+        <translation type="vanished">函示庫</translation>
     </message>
     <message>
         <source>Linker</source>
-        <translation>鏈接器</translation>
+        <translation type="vanished">鏈接器</translation>
     </message>
     <message>
         <source>compressor</source>
-        <translation>壓縮軟件</translation>
+        <translation type="vanished">壓縮軟件</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>操作系統</translation>
+        <translation type="vanished">操作系統</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>覆蓋</translation>
+        <translation type="vanished">覆蓋</translation>
     </message>
     <message>
         <source>Packer</source>
-        <translation>封隔器</translation>
-    </message>
-    <message>
-        <source>Platform</source>
-        <translation></translation>
+        <translation type="vanished">封隔器</translation>
     </message>
     <message>
         <source>Player</source>
-        <translation>播放器</translation>
+        <translation type="vanished">播放器</translation>
     </message>
     <message>
         <source>Protection</source>
-        <translation>保護</translation>
+        <translation type="vanished">保護</translation>
     </message>
     <message>
         <source>Protector</source>
-        <translation>保護者</translation>
+        <translation type="vanished">保護者</translation>
     </message>
     <message>
         <source>Protector data</source>
-        <translation>保護者數據</translation>
+        <translation type="vanished">保護者數據</translation>
     </message>
     <message>
         <source>data</source>
-        <translation>資料</translation>
+        <translation type="vanished">資料</translation>
     </message>
     <message>
         <source>Sign tool</source>
-        <translation>簽章工具</translation>
+        <translation type="vanished">簽章工具</translation>
     </message>
     <message>
         <source>Source code</source>
-        <translation>源代碼</translation>
+        <translation type="vanished">源代碼</translation>
     </message>
     <message>
         <source>Stub</source>
-        <translation>根</translation>
+        <translation type="vanished">根</translation>
     </message>
     <message>
         <source>Virtual machine</source>
-        <translation>虛擬機</translation>
+        <translation type="vanished">虛擬機</translation>
     </message>
     <message>
         <source>Virus</source>
-        <translation>病毒</translation>
+        <translation type="vanished">病毒</translation>
     </message>
     <message>
         <source>Trojan</source>
-        <translation>木馬</translation>
+        <translation type="vanished">木馬</translation>
     </message>
     <message>
         <source>Malware</source>
-        <translation>惡意軟體</translation>
+        <translation type="vanished">惡意軟體</translation>
     </message>
     <message>
         <source>Package</source>
-        <translation>封隔器</translation>
+        <translation type="vanished">封隔器</translation>
+    </message>
+    <message>
+        <source>Cannot unpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path traversal detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot decompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XGif</name>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Logical Screen Descriptor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trailer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">映像檔</translation>
+    </message>
+    <message>
+        <source>Graphic Control Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -4636,6 +5323,18 @@
     <message>
         <source>Footer</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
     </message>
 </context>
 <context>
@@ -4672,6 +5371,14 @@
         <source>Name</source>
         <translation>名稱</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">區域</translation>
+    </message>
 </context>
 <context>
     <name>XHexEdit</name>
@@ -4700,15 +5407,15 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>資料檢驗器</translation>
+        <translation type="vanished">資料檢驗器</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>資料轉換器</translation>
+        <translation type="vanished">資料轉換器</translation>
     </message>
     <message>
         <source>Multisearch</source>
-        <translation>多重搜尋</translation>
+        <translation type="vanished">多重搜尋</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -4716,119 +5423,111 @@
     </message>
     <message>
         <source>Start</source>
-        <translation>開始</translation>
+        <translation type="vanished">開始</translation>
     </message>
     <message>
         <source>End</source>
-        <translation>結束</translation>
+        <translation type="vanished">結束</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>轉存到檔案</translation>
+        <translation type="vanished">轉存到檔案</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>簽章</translation>
+        <translation type="vanished">簽章</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>字串</translation>
+        <translation type="vanished">字串</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>值</translation>
+        <translation type="vanished">值</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>搜尋下一個</translation>
+        <translation type="vanished">搜尋下一個</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation type="vanished">全選</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>資料</translation>
+        <translation type="vanished">資料</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>反組譯</translation>
+        <translation type="vanished">反組譯</translation>
     </message>
     <message>
         <source>Memory map</source>
-        <translation>記憶體區塊</translation>
-    </message>
-    <message>
-        <source>Patch</source>
-        <translation></translation>
+        <translation type="vanished">記憶體區塊</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation type="vanished">移除</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>變更大小</translation>
+        <translation type="vanished">變更大小</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>新</translation>
+        <translation type="vanished">新</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>列表</translation>
+        <translation type="vanished">列表</translation>
     </message>
     <message>
         <source>Strings</source>
-        <translation>字串</translation>
+        <translation type="vanished">字串</translation>
     </message>
     <message>
         <source>Visualization</source>
-        <translation>虛擬化</translation>
+        <translation type="vanished">虛擬化</translation>
     </message>
     <message>
         <source>Scripts</source>
-        <translation>腳本</translation>
+        <translation type="vanished">腳本</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation>跳至</translation>
+        <translation type="vanished">跳至</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>選擇</translation>
+        <translation type="vanished">選擇</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>搜尋</translation>
+        <translation type="vanished">搜尋</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>選擇</translation>
+        <translation type="vanished">選擇</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>複製</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">複製</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>編輯</translation>
+        <translation type="vanished">編輯</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>書籤</translation>
+        <translation type="vanished">書籤</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>模式</translation>
+        <translation type="vanished">模式</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="vanished">寬度</translation>
     </message>
 </context>
 <context>
@@ -4846,7 +5545,7 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>資料檢驗器</translation>
+        <translation type="vanished">資料檢驗器</translation>
     </message>
     <message>
         <source>Strings</source>
@@ -4858,15 +5557,27 @@
     </message>
     <message>
         <source>Hex</source>
-        <translation>十六進制</translation>
+        <translation type="vanished">十六進制</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>選擇</translation>
+        <translation type="vanished">選擇</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>大小</translation>
+        <translation type="vanished">大小</translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">類型</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4874,6 +5585,18 @@
     <message>
         <source>Header</source>
         <translation>標頭</translation>
+    </message>
+    <message>
+        <source>Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -4929,6 +5652,14 @@
         <source>Open directory</source>
         <translation>打開目錄</translation>
     </message>
+    <message>
+        <source>Info database update URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XInfoMenu</name>
@@ -4946,7 +5677,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation type="vanished">清除</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4956,13 +5687,17 @@
         <source>All files</source>
         <translation>所有檔案</translation>
     </message>
-    <message>
+    <message id="XBinary::getDeviceDirectory(m_pXInfoDB->getDevice());">
         <source>Open file</source>
         <translation>打開檔案</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>你確定嗎？</translation>
+        <translation type="vanished">你確定嗎？</translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4986,24 +5721,32 @@
         <source>Data</source>
         <translation>資料</translation>
     </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
 </context>
 <context>
     <name>XLE</name>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>物件</translation>
+        <translation type="vanished">物件</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>覆蓋</translation>
+        <translation type="vanished">覆蓋</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
 </context>
 <context>
@@ -5011,6 +5754,14 @@
     <message>
         <source>Header</source>
         <translation>標頭</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -5055,15 +5806,15 @@
     <name>XMACH</name>
     <message>
         <source>Segment</source>
-        <translation>分段</translation>
+        <translation type="vanished">分段</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>部分</translation>
+        <translation type="vanished">部分</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
 </context>
 <context>
@@ -5076,6 +5827,14 @@
         <source>Header</source>
         <translation>標頭</translation>
     </message>
+    <message>
+        <source>Universal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMP3</name>
@@ -5083,20 +5842,39 @@
         <source>Header</source>
         <translation>標頭</translation>
     </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
+</context>
+<context>
+    <name>XMP4</name>
+    <message>
+        <source>Boxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">標頭</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
 </context>
 <context>
     <name>XMSDOS</name>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>覆蓋</translation>
+        <translation type="vanished">覆蓋</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
 </context>
 <context>
@@ -5167,7 +5945,7 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>轉存到檔案</translation>
+        <translation type="vanished">轉存到檔案</translation>
     </message>
     <message>
         <source>Dump</source>
@@ -5180,6 +5958,14 @@
     <message>
         <source>Raw data</source>
         <translation>原始資料</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">重新載入</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">搜尋</translation>
     </message>
 </context>
 <context>
@@ -5200,12 +5986,40 @@
         <source>Readonly</source>
         <translation>唯讀</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Method</source>
+        <translation type="unfinished">方法</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">看法</translation>
+    </message>
+    <message>
+        <source>Compact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XNE</name>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
 </context>
 <context>
@@ -5267,6 +6081,10 @@
     <message>
         <source>Documents</source>
         <translation>檔案</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
     </message>
 </context>
 <context>
@@ -5371,6 +6189,26 @@
         <source>Please restart the application</source>
         <translation>請重啟應用程式</translation>
     </message>
+    <message>
+        <source>Set system environment variable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AVX2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Features</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XPDF</name>
@@ -5386,122 +6224,170 @@
         <source>Footer</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">檔案</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">映像檔</translation>
+    </message>
+    <message>
+        <source>Color palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
 </context>
 <context>
     <name>XPE</name>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation>應用</translation>
+        <translation type="vanished">應用</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation>系統控制臺</translation>
+        <translation type="vanished">系統控制臺</translation>
     </message>
     <message>
         <source>Driver</source>
-        <translation>司機</translation>
+        <translation type="vanished">司機</translation>
     </message>
     <message>
         <source>Boot application</source>
-        <translation>啟動應用程序</translation>
+        <translation type="vanished">啟動應用程序</translation>
     </message>
     <message>
         <source>Runtime driver</source>
-        <translation>運行時驅動程序</translation>
+        <translation type="vanished">運行時驅動程序</translation>
     </message>
     <message>
         <source>Boot service driver</source>
-        <translation>引導服務驅動程序</translation>
+        <translation type="vanished">引導服務驅動程序</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>部分</translation>
+        <translation type="vanished">部分</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>覆蓋</translation>
+        <translation type="vanished">覆蓋</translation>
     </message>
     <message>
         <source>Cannot open file</source>
-        <translation>無法打開檔案</translation>
+        <translation type="vanished">無法打開檔案</translation>
     </message>
     <message>
         <source>The file is signed and the signature was verified</source>
-        <translation>文件已簽名並已驗證簽名</translation>
+        <translation type="vanished">文件已簽名並已驗證簽名</translation>
     </message>
     <message>
         <source>The file is not signed</source>
-        <translation>該文件未簽名</translation>
+        <translation type="vanished">該文件未簽名</translation>
     </message>
     <message>
         <source>The signature is present, but specifically disallowed</source>
-        <translation>簽名存在，但明確不允許</translation>
+        <translation type="vanished">簽名存在，但明確不允許</translation>
     </message>
     <message>
         <source>The signature is present, but not trusted</source>
-        <translation>簽名存在，但不受信任</translation>
+        <translation type="vanished">簽名存在，但不受信任</translation>
     </message>
     <message>
         <source>The signature error</source>
-        <translation>簽名錯誤</translation>
+        <translation type="vanished">簽名錯誤</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>錯誤</translation>
+        <translation type="vanished">錯誤</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>入口點</translation>
+        <translation type="vanished">入口點</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>出口</translation>
+        <translation type="vanished">出口</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>進口</translation>
+        <translation type="vanished">進口</translation>
     </message>
     <message>
         <source>Relocs</source>
-        <translation>重新定位</translation>
+        <translation type="vanished">重新定位</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>資源</translation>
+        <translation type="vanished">資源</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>證書</translation>
+        <translation type="vanished">證書</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>無效</translation>
+        <translation type="vanished">無效</translation>
     </message>
 </context>
 <context>
     <name>XPNG</name>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
     <name>XRar</name>
     <message>
         <source>Header</source>
-        <translation>標頭</translation>
+        <translation type="vanished">標頭</translation>
     </message>
     <message>
         <source>Data</source>
         <translation>資料</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">簽章</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -5512,7 +6398,31 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="vanished">未知</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
+    <message>
+        <source>Invalid data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected end of data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot unpack data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid format data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5779,7 +6689,7 @@
     </message>
     <message>
         <source>CPU</source>
-        <translation>中央處理器</translation>
+        <translation type="vanished">中央處理器</translation>
     </message>
     <message>
         <source>Log</source>
@@ -5907,15 +6817,43 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>資料檢驗器</translation>
+        <translation type="vanished">資料檢驗器</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>資料轉換器</translation>
+        <translation type="vanished">資料轉換器</translation>
     </message>
     <message>
         <source>Multisearch</source>
         <translation>多重搜尋</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">位置</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">寬度</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convertor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished">虛擬化</translation>
     </message>
 </context>
 <context>
@@ -5957,27 +6895,46 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>位址</translation>
+        <translation type="vanished">位址</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>符號</translation>
+        <translation type="vanished">符號</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>大小</translation>
+        <translation type="vanished">大小</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>名稱</translation>
+        <translation type="vanished">名稱</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation>代碼</translation>
+        <translation type="vanished">代碼</translation>
     </message>
     <message>
         <source>Symbols</source>
         <translation>符號</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">重新載入</translation>
+    </message>
+</context>
+<context>
+    <name>XTAR</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">標頭</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -5989,6 +6946,93 @@
     <message>
         <source>Table</source>
         <translation>表格</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
+    </message>
+</context>
+<context>
+    <name>XUpdate</name>
+    <message>
+        <source>Cannot find ZIP asset %1 in release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracting %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create temporary unpack directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid ZIP archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open downloaded ZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>updated successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to extract %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported GitHub release URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot fetch release metadata for %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid release body for %1. Expected date=yyyy-MM-dd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No local info.ini for %1. Bootstrapping from GitHub release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read local info.ini for %1, skipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Updating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is up to date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6057,6 +7101,41 @@
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
+    <message>
+        <source>First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XVisualization</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">熵值</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zeros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">文字</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
+    </message>
 </context>
 <context>
     <name>XVisualizationWidget</name>
@@ -6110,23 +7189,27 @@
     </message>
     <message>
         <source>Entropy</source>
-        <translation>熵值</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Zeros</source>
-        <translation></translation>
+        <translation type="vanished">熵值</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>文字</translation>
+        <translation type="vanished">文字</translation>
     </message>
     <message>
         <source>Visualization</source>
         <translation>虛擬化</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
+    </message>
+    <message>
+        <source>Methods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6134,6 +7217,53 @@
     <message>
         <source>Start</source>
         <translation>開始</translation>
+    </message>
+    <message>
+        <source>Invalid YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open rules file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No YARA rules were loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA rules path not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot build YARA rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open scan target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA scan failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XZip</name>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -6147,8 +7277,27 @@
         <translation>資料</translation>
     </message>
     <message>
-        <source>Footer</source>
-        <translation></translation>
+        <source>Adler32</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>X_Ar</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">標頭</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">覆蓋</translation>
     </message>
 </context>
 <context>
@@ -6192,6 +7341,18 @@
     <message>
         <source>Cannot save file</source>
         <translation>無法保存檔案</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">結果</translation>
+    </message>
+    <message>
+        <source>Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rule name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

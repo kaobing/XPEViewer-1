@@ -1,7 +1,7 @@
-set VSVARS_PATH="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat"
-set QMAKE_PATH="C:\Qt\5.15.2\msvc2019_64\bin\qmake.exe"
+set VSVARS_PATH="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\vsdevcmd\ext\vcvars64.bat"
+set QMAKE_PATH="C:\Qt\Qt5.12.12\5.12.12\msvc2017_64\bin\qmake.exe"
 set SEVENZIP_PATH="C:\Program Files\7-Zip\7z.exe"
-set INNOSETUP_PATH="C:\Program Files (x86)\Inno Setup 6\ISCC.exe"
+set INNOSETUP_PATH="D:\문서\InnoExtractor Files\Inno Setup 6_7_1\ISCC.exe"
 
 set X_SOURCE_PATH=%~dp0
 set X_BUILD_NAME=xpeviewer

@@ -126,12 +126,13 @@
         <source>Search</source>
         <translation>Tìm kiếm</translation>
     </message>
-</context>
-<context>
-    <name>Binary_Script</name>
     <message>
-        <source>Invalid handle</source>
-        <translation></translation>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -164,7 +165,7 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation>Bộ lọc</translation>
+        <translation type="vanished">Bộ lọc</translation>
     </message>
     <message>
         <source>Save</source>
@@ -210,6 +211,14 @@
         <source>Search</source>
         <translation>Tìm kiếm</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEOptionsWidget</name>
@@ -246,10 +255,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Buffer size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Scan</source>
         <translation>Quét</translation>
     </message>
@@ -265,6 +270,30 @@
         <source>Open directory</source>
         <translation>Mở thư mục</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
+    </message>
+    <message>
+        <source>Aggressive scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra database</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEWidgetAdvanced</name>
@@ -278,27 +307,23 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>Tùy chọn</translation>
+        <translation type="vanished">Tùy chọn</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>Quét sâu</translation>
+        <translation type="vanished">Quét sâu</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>Quét đệ quy</translation>
+        <translation type="vanished">Quét đệ quy</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Các loại</translation>
+        <translation type="vanished">Các loại</translation>
     </message>
     <message>
         <source>Signatures</source>
@@ -328,6 +353,26 @@
         <source>Cannot save file</source>
         <translation>Không thể lưu tập tin</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">Cơ sở dữ liệu</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">Kết quả</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Signature name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIE_Widget</name>
@@ -337,19 +382,15 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>Quét đệ quy</translation>
+        <translation type="vanished">Quét đệ quy</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>Quét sâu</translation>
+        <translation type="vanished">Quét sâu</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -361,7 +402,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>Các loại</translation>
+        <translation type="vanished">Các loại</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -379,12 +420,24 @@
         <source>Copy as</source>
         <translation>Sao chép dưới dạng</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">Cơ sở dữ liệu</translation>
+    </message>
 </context>
 <context>
     <name>DiE_Script</name>
     <message>
         <source>Cannot load database</source>
-        <translation>Không thể tải cơ sở dữ liệu</translation>
+        <translation type="vanished">Không thể tải cơ sở dữ liệu</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -503,6 +556,21 @@
     </message>
 </context>
 <context>
+    <name>DialogCreateViewModel</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
+    <message>
+        <source>Invalid parameters provided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name cannot be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DialogDIEScanDirectory</name>
     <message>
         <source>Directory scan</source>
@@ -518,23 +586,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>Quét đệ quy</translation>
+        <translation type="vanished">Quét đệ quy</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>Quét sâu</translation>
+        <translation type="vanished">Quét sâu</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Các loại</translation>
+        <translation type="vanished">Các loại</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -567,6 +631,10 @@
     <message>
         <source>Save result</source>
         <translation>Lưu kết quả</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
     </message>
 </context>
 <context>
@@ -628,10 +696,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Show options</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Show version</source>
         <translation></translation>
     </message>
@@ -654,6 +718,10 @@
     <message>
         <source>msec</source>
         <translation>mili-giây</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -679,7 +747,7 @@
     <name>DialogDataInspector</name>
     <message>
         <source>Data inspector</source>
-        <translation>Dữ liệu trong mã</translation>
+        <translation type="vanished">Dữ liệu trong mã</translation>
     </message>
     <message>
         <source>Endianness</source>
@@ -717,6 +785,10 @@
         <source>Binary</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogDemangle</name>
@@ -744,7 +816,7 @@
     <name>DialogDumpProcess</name>
     <message>
         <source>Dump</source>
-        <translation>Kết xuất</translation>
+        <translation type="vanished">Kết xuất</translation>
     </message>
 </context>
 <context>
@@ -956,66 +1028,62 @@
     <name>DialogMultiDisasmSignature</name>
     <message>
         <source>Signature</source>
-        <translation>Chữ ký</translation>
+        <translation type="vanished">Chữ ký</translation>
     </message>
     <message>
         <source>Spaces</source>
-        <translation>Khoảng trống</translation>
+        <translation type="vanished">Khoảng trống</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation>Trên</translation>
+        <translation type="vanished">Trên</translation>
     </message>
     <message>
         <source>Wildcard</source>
-        <translation>Ký tự đại diện</translation>
+        <translation type="vanished">Ký tự đại diện</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation>Quét</translation>
+        <translation type="vanished">Quét</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Sao chép</translation>
+        <translation type="vanished">Sao chép</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Relative virtual address</source>
-        <translation>Địa chỉ ảo tương đối</translation>
+        <translation type="vanished">Địa chỉ ảo tương đối</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Địa chỉ</translation>
+        <translation type="vanished">Địa chỉ</translation>
     </message>
     <message>
         <source>Bytes</source>
-        <translation>Bytes</translation>
+        <translation type="vanished">Bytes</translation>
     </message>
     <message>
         <source>Opcode</source>
-        <translation>Mã vận hành</translation>
+        <translation type="vanished">Mã vận hành</translation>
     </message>
 </context>
 <context>
     <name>DialogMultiSearchProcess</name>
     <message>
         <source>Search strings</source>
-        <translation>Tìm kiếm chuỗi</translation>
+        <translation type="vanished">Tìm kiếm chuỗi</translation>
     </message>
     <message>
         <source>Search signatures</source>
-        <translation>Tìm kiếm chữ ký</translation>
-    </message>
-    <message>
-        <source>Search values</source>
-        <translation></translation>
+        <translation type="vanished">Tìm kiếm chữ ký</translation>
     </message>
     <message>
         <source>Create view model</source>
-        <translation>Tạo mẫu  xem</translation>
+        <translation type="vanished">Tạo mẫu  xem</translation>
     </message>
 </context>
 <context>
@@ -1045,23 +1113,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>Quét đệ quy</translation>
+        <translation type="vanished">Quét đệ quy</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>Quét sâu</translation>
+        <translation type="vanished">Quét sâu</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Các loại</translation>
+        <translation type="vanished">Các loại</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -1095,16 +1159,20 @@
         <source>Save result</source>
         <translation>Lưu kết quả</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
+    </message>
 </context>
 <context>
     <name>DialogNFDScanProcess</name>
     <message>
         <source>Text documents</source>
-        <translation>Tài liệu văn bản</translation>
+        <translation type="vanished">Tài liệu văn bản</translation>
     </message>
     <message>
         <source>Save result</source>
-        <translation>Lưu kết quả</translation>
+        <translation type="vanished">Lưu kết quả</translation>
     </message>
 </context>
 <context>
@@ -1245,16 +1313,24 @@
         <source>Cursor</source>
         <translation>Con trỏ</translation>
     </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Loại</translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">Hex</translation>
+    </message>
 </context>
 <context>
     <name>DialogSearchProcess</name>
     <message>
         <source>Search</source>
-        <translation>Tìm kiếm</translation>
+        <translation type="vanished">Tìm kiếm</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Hủy</translation>
+        <translation type="vanished">Hủy</translation>
     </message>
 </context>
 <context>
@@ -1368,6 +1444,85 @@
     <message>
         <source>Close</source>
         <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Image information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
+    <message>
+        <source>Image file does not exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to load image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit to Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">Sao chép</translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished">Hình ảnh</translation>
+    </message>
+    <message>
+        <source>Failed to save image to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No image loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Kích thước</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">Sự sắp xếp</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DialogShowText</name>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Chữ</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Đóng</translation>
     </message>
 </context>
 <context>
@@ -1532,6 +1687,22 @@
         <source>Background</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Text color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>String</source>
+        <translation type="unfinished">Chuỗi</translation>
+    </message>
 </context>
 <context>
     <name>DialogVisualization</name>
@@ -1588,39 +1759,27 @@
     <name>DialogXInfoDBTransferProcess</name>
     <message>
         <source>Analyze</source>
-        <translation>Phân tích</translation>
+        <translation type="vanished">Phân tích</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>Rối loạn</translation>
+        <translation type="vanished">Rối loạn</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>Ký hiệu</translation>
+        <translation type="vanished">Ký hiệu</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Xóa</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation></translation>
+        <translation type="vanished">Xóa</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Trích xuất</translation>
+        <translation type="vanished">Trích xuất</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Nhập</translation>
-    </message>
-    <message>
-        <source>Scan for IAT</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Get IAT</source>
-        <translation></translation>
+        <translation type="vanished">Nhập</translation>
     </message>
 </context>
 <context>
@@ -1635,11 +1794,11 @@
     </message>
     <message>
         <source>Functions</source>
-        <translation>Chức năng</translation>
+        <translation type="vanished">Chức năng</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>Tài liệu tham khảo bên ngoài</translation>
+        <translation type="vanished">Tài liệu tham khảo bên ngoài</translation>
     </message>
 </context>
 <context>
@@ -1777,11 +1936,11 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation>Chỉnh sửa</translation>
+        <translation type="vanished">Chỉnh sửa</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>Gỡ rối</translation>
+        <translation type="vanished">Gỡ rối</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1793,7 +1952,15 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>Kết xuất ra tập tin</translation>
+        <translation type="vanished">Kết xuất ra tập tin</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1890,6 +2057,10 @@
     <message>
         <source>Value</source>
         <translation>Giá trị</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
     </message>
 </context>
 <context>
@@ -2037,6 +2208,18 @@
     <message>
         <source>Open directory</source>
         <translation>Mở thư mục</translation>
+    </message>
+    <message>
+        <source>Scan engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">Lưu trữ</translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2240,6 +2423,14 @@
         <source>Edit</source>
         <translation>Chỉnh sửa</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MACHOFATWidget</name>
@@ -2416,6 +2607,14 @@
         <source>Demangle</source>
         <translation>Gỡ rối</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSDOSWidget</name>
@@ -2475,40 +2674,60 @@
         <source>Overlay</source>
         <translation>Xếp chồng</translation>
     </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">Kết xuất</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiSearch</name>
     <message>
-        <source>Number</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Offset</source>
-        <translation>Khoảng cách</translation>
+        <translation type="vanished">Khoảng cách</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Địa chỉ</translation>
+        <translation type="vanished">Địa chỉ</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Kích thước</translation>
+        <translation type="vanished">Kích thước</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Loại</translation>
+        <translation type="vanished">Loại</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>Chuỗi</translation>
+        <translation type="vanished">Chuỗi</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Giá trị</translation>
+        <translation type="vanished">Giá trị</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation type="vanished">Tên</translation>
+    </message>
+    <message>
+        <source>Search strings</source>
+        <translation type="unfinished">Tìm kiếm chuỗi</translation>
+    </message>
+    <message>
+        <source>Search signatures</source>
+        <translation type="unfinished">Tìm kiếm chữ ký</translation>
+    </message>
+    <message>
+        <source>Search values</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2580,6 +2799,14 @@
         <source>Overlay</source>
         <translation>Xếp chồng</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDOptionsWidget</name>
@@ -2611,6 +2838,10 @@
         <source>Highlight</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDWidgetAdvanced</name>
@@ -2620,27 +2851,23 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>Tùy chọn</translation>
+        <translation type="vanished">Tùy chọn</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>Quét đệ quy</translation>
+        <translation type="vanished">Quét đệ quy</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>Quét sâu</translation>
+        <translation type="vanished">Quét sâu</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Các loại</translation>
+        <translation type="vanished">Các loại</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2656,7 +2883,7 @@
     </message>
     <message>
         <source>Result</source>
-        <translation>Kết quả</translation>
+        <translation type="vanished">Kết quả</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2665,6 +2892,30 @@
     <message>
         <source>Value</source>
         <translation>Giá trị</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">Cờ</translation>
+    </message>
+    <message>
+        <source>Heuristics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text files</source>
+        <translation type="unfinished">Tập tin văn bản</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation type="unfinished">Tất cả tập tin</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
+    <message>
+        <source>Cannot save file</source>
+        <translation type="unfinished">Không thể lưu tập tin</translation>
     </message>
 </context>
 <context>
@@ -2675,19 +2926,15 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>Quét đệ quy</translation>
+        <translation type="vanished">Quét đệ quy</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>Quét sâu</translation>
+        <translation type="vanished">Quét sâu</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
-    </message>
-    <message>
-        <source>Verbose</source>
-        <translation></translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -2695,7 +2942,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>Các loại</translation>
+        <translation type="vanished">Các loại</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -2707,7 +2954,7 @@
     </message>
     <message>
         <source>msec</source>
-        <translation>mili-giây</translation>
+        <translation type="vanished">mili-giây</translation>
     </message>
 </context>
 <context>
@@ -3164,6 +3411,14 @@
         <source>Demangle</source>
         <translation>Gỡ rối</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -3219,6 +3474,182 @@
         <source>Cannot open file</source>
         <translation>Không thể mở tập tin</translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">không xác định</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">Hex</translation>
+    </message>
+    <message>
+        <source>Disasm</source>
+        <translation type="unfinished">Rối loạn</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">Lưu trữ</translation>
+    </message>
+    <message>
+        <source>Hash</source>
+        <translation type="unfinished">Băm</translation>
+    </message>
+    <message>
+        <source>Strings</source>
+        <translation type="unfinished">Chuỗi</translation>
+    </message>
+    <message>
+        <source>Signatures</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">Vùng</translation>
+    </message>
+    <message>
+        <source>Memory map</source>
+        <translation type="unfinished">Sơ đồ bộ nhớ</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished">Ký hiệu</translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">Entropy</translation>
+    </message>
+    <message>
+        <source>Extractor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Tìm kiếm</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Tập tin</translation>
+    </message>
+    <message>
+        <source>Resource</source>
+        <translation type="unfinished">Nguồn</translation>
+    </message>
+    <message>
+        <source>Region</source>
+        <translation type="unfinished">Khu vực</translation>
+    </message>
+    <message>
+        <source>Debug data</source>
+        <translation type="unfinished">Gỡ lỗi dữ liệu</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished">Mục</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Segment</source>
+        <translation type="unfinished">Đoạn</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation type="unfinished">Sự vật</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">Bàn</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="unfinished">Xử lý</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">Tài liệu</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Hình ảnh</translation>
+    </message>
+    <message>
+        <source>Plain Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Chữ</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">Thông tin</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read error</source>
+        <translation type="unfinished">Đọc lỗi</translation>
+    </message>
+    <message>
+        <source>Architecture</source>
+        <translation type="unfinished">Kiến trúc</translation>
+    </message>
+    <message>
+        <source>Raw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">Sự sắp xếp</translation>
+    </message>
+    <message>
+        <source>Heuristic</source>
+        <translation type="unfinished">Phỏng đoán</translation>
+    </message>
 </context>
 <context>
     <name>QwtPlotRenderer</name>
@@ -3254,7 +3685,7 @@
     <name>ScanItemModel</name>
     <message>
         <source>Result</source>
-        <translation>Kết quả</translation>
+        <translation type="vanished">Kết quả</translation>
     </message>
 </context>
 <context>
@@ -3300,31 +3731,39 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>Sao chép</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">Sao chép</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation type="vanished">Tên</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Chữ ký</translation>
+        <translation type="vanished">Chữ ký</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Địa chỉ</translation>
+        <translation type="vanished">Địa chỉ</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Khoảng cách</translation>
+        <translation type="vanished">Khoảng cách</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
+    </message>
+    <message>
+        <source>Patch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">Thông tin</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">Kết quả</translation>
     </message>
 </context>
 <context>
@@ -3335,7 +3774,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>Tùy chọn</translation>
+        <translation type="vanished">Tùy chọn</translation>
     </message>
     <message>
         <source>Null-terminated</source>
@@ -3346,20 +3785,12 @@
         <translation></translation>
     </message>
     <message>
-        <source>Min size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Tìm kiếm</translation>
     </message>
     <message>
-        <source>Code page</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Filter</source>
-        <translation>Bộ lọc</translation>
+        <translation type="vanished">Bộ lọc</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3370,24 +3801,20 @@
         <translation>Chuỗi</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Edit</source>
-        <translation>Chỉnh sửa</translation>
+        <translation type="vanished">Chỉnh sửa</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>Gỡ rối</translation>
+        <translation type="vanished">Gỡ rối</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>Chuỗi</translation>
+        <translation type="vanished">Chuỗi</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3396,6 +3823,46 @@
     <message>
         <source>Cannot save file</source>
         <translation>Không thể lưu tập tin</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
+    </message>
+    <message>
+        <source>Mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">Kết quả</translation>
+    </message>
+    <message>
+        <source>Searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>strings found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>msec</source>
+        <translation type="unfinished">mili-giây</translation>
+    </message>
+    <message>
+        <source>strings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3429,71 +3896,83 @@
         <translation></translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>Rối loạn</translation>
+        <translation type="vanished">Rối loạn</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
+    </message>
+    <message>
+        <source>Search string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">Kết quả</translation>
     </message>
 </context>
 <context>
     <name>SpecAbstract</name>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
-    </message>
-    <message>
-        <source>Virus</source>
-        <translation></translation>
+        <translation type="vanished">không xác định</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>Xếp chồng</translation>
+        <translation type="vanished">Xếp chồng</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>Điểm nhập</translation>
+        <translation type="vanished">Điểm nhập</translation>
     </message>
     <message>
         <source>Section name</source>
-        <translation>Tên mục</translation>
+        <translation type="vanished">Tên mục</translation>
     </message>
     <message>
         <source>Import hash</source>
-        <translation>Nhập hàm băm</translation>
+        <translation type="vanished">Nhập hàm băm</translation>
     </message>
     <message>
         <source>Code section</source>
-        <translation>Mục mã</translation>
+        <translation type="vanished">Mục mã</translation>
     </message>
     <message>
         <source>Entry point section</source>
-        <translation>Mục điểm nhập</translation>
+        <translation type="vanished">Mục điểm nhập</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>Chuỗi</translation>
+        <translation type="vanished">Chuỗi</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Lưu trữ</translation>
+        <translation type="vanished">Lưu trữ</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>Tài nguyên</translation>
+        <translation type="vanished">Tài nguyên</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Loại</translation>
+        <translation type="vanished">Loại</translation>
     </message>
 </context>
 <context>
@@ -3513,6 +3992,13 @@
     <message>
         <source>Directory scan</source>
         <translation>Quét thư mục</translation>
+    </message>
+</context>
+<context>
+    <name>StaticScanItemModel</name>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">Kết quả</translation>
     </message>
 </context>
 <context>
@@ -3580,7 +4066,7 @@
     </message>
     <message>
         <source>Check updates</source>
-        <translation>Kiểm tra cập nhật</translation>
+        <translation type="vanished">Kiểm tra cập nhật</translation>
     </message>
     <message>
         <source>Libraries</source>
@@ -3614,12 +4100,13 @@
         <source>The value copied to clipboard</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>XAbstractTableView</name>
     <message>
-        <source>Invalid font</source>
-        <translation></translation>
+        <source>Check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Social Media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3631,6 +4118,25 @@
     <message>
         <source>Archive</source>
         <translation>Lưu trữ</translation>
+    </message>
+    <message>
+        <source>extender</source>
+        <translation type="unfinished">bộ mở rộng</translation>
+    </message>
+</context>
+<context>
+    <name>XBMP</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Bitmap Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -3665,55 +4171,35 @@
     </message>
     <message>
         <source>Region</source>
-        <translation>Khu vực</translation>
+        <translation type="vanished">Khu vực</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation>Xử lý</translation>
+        <translation type="vanished">Xử lý</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Lưu trữ</translation>
-    </message>
-    <message>
-        <source>Audio</source>
-        <translation></translation>
+        <translation type="vanished">Lưu trữ</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation>Tài liệu</translation>
+        <translation type="vanished">Tài liệu</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Hình ảnh</translation>
-    </message>
-    <message>
-        <source>Plain Text</source>
-        <translation></translation>
+        <translation type="vanished">Hình ảnh</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Chữ ký</translation>
-    </message>
-    <message>
-        <source>tar</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>tar.gz</source>
-        <translation></translation>
+        <translation type="vanished">Chữ ký</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Chữ</translation>
-    </message>
-    <message>
-        <source>Video</source>
-        <translation></translation>
+        <translation type="vanished">Chữ</translation>
     </message>
     <message>
         <source>Signatures</source>
-        <translation>Chữ ký</translation>
+        <translation type="vanished">Chữ ký</translation>
     </message>
     <message>
         <source>Read error</source>
@@ -3801,7 +4287,7 @@
     </message>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -3809,25 +4295,76 @@
     </message>
     <message>
         <source>Archive record</source>
-        <translation>Bản ghi lưu trữ</translation>
+        <translation type="vanished">Bản ghi lưu trữ</translation>
     </message>
     <message>
         <source>Resource</source>
-        <translation>Nguồn</translation>
+        <translation type="vanished">Nguồn</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Streams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">Thông tin</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
+    <message>
+        <source>Corrupted data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <translation type="unfinished">Tổng</translation>
     </message>
 </context>
 <context>
     <name>XCOM</name>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
+    </message>
+</context>
+<context>
+    <name>XCab</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
     <name>XCapstone</name>
     <message>
         <source>Invalid opcode</source>
-        <translation>Opcode không hợp lệ</translation>
+        <translation type="vanished">Opcode không hợp lệ</translation>
     </message>
 </context>
 <context>
@@ -3851,12 +4388,16 @@
         <source>Overlay</source>
         <translation>Xếp chồng</translation>
     </message>
+    <message>
+        <source>Main module</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XDataConvertor</name>
     <message>
         <source>Read error</source>
-        <translation>Đọc lỗi</translation>
+        <translation type="vanished">Đọc lỗi</translation>
     </message>
     <message>
         <source>Write error</source>
@@ -3942,20 +4483,32 @@
         <source>Cannot resize</source>
         <translation>Không thể mở tập tin</translation>
     </message>
+    <message>
+        <source>Save dump</source>
+        <translation type="unfinished">Lưu kết xuất</translation>
+    </message>
+    <message>
+        <source>Raw data</source>
+        <translation type="unfinished">Dữ lieu thô</translation>
+    </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">Kết xuất</translation>
+    </message>
 </context>
 <context>
     <name>XDeviceTableView</name>
     <message>
         <source>Save dump</source>
-        <translation>Lưu kết xuất</translation>
+        <translation type="vanished">Lưu kết xuất</translation>
     </message>
     <message>
         <source>Raw data</source>
-        <translation>Dữ lieu thô</translation>
+        <translation type="vanished">Dữ lieu thô</translation>
     </message>
     <message>
         <source>Dump</source>
-        <translation>Kết xuất</translation>
+        <translation type="vanished">Kết xuất</translation>
     </message>
     <message>
         <source>Nothing found</source>
@@ -3979,6 +4532,18 @@
     <message>
         <source>Info</source>
         <translation>Thông tin</translation>
+    </message>
+    <message>
+        <source>Elapsed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remaining:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4005,111 +4570,91 @@
     </message>
     <message>
         <source>Go to</source>
-        <translation>Đi tới</translation>
+        <translation type="vanished">Đi tới</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Tìm kiếm</translation>
+        <translation type="vanished">Tìm kiếm</translation>
     </message>
     <message>
         <source>Analyze</source>
-        <translation>Phân tích</translation>
+        <translation type="vanished">Phân tích</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Chọn</translation>
+        <translation type="vanished">Chọn</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Sao chép</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">Sao chép</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Chỉnh sửa</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation></translation>
+        <translation type="vanished">Chỉnh sửa</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>Kết xuất ra tập tin</translation>
+        <translation type="vanished">Kết xuất ra tập tin</translation>
     </message>
     <message>
         <source>Hex signature</source>
-        <translation>Chữ ký hex</translation>
+        <translation type="vanished">Chữ ký hex</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Chữ ký</translation>
+        <translation type="vanished">Chữ ký</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>Chuỗi</translation>
+        <translation type="vanished">Chuỗi</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Giá trị</translation>
+        <translation type="vanished">Giá trị</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>Tìm kiếm tiếp theo</translation>
+        <translation type="vanished">Tìm kiếm tiếp theo</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Chọn tất cả</translation>
+        <translation type="vanished">Chọn tất cả</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Dữ liệu</translation>
+        <translation type="vanished">Dữ liệu</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>Tài liệu tham khảo bên ngoài</translation>
+        <translation type="vanished">Tài liệu tham khảo bên ngoài</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Tất cả các</translation>
+        <translation type="vanished">Tất cả các</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>Rối loạn</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation></translation>
+        <translation type="vanished">Rối loạn</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>Ký hiệu</translation>
+        <translation type="vanished">Ký hiệu</translation>
     </message>
     <message>
         <source>Functions</source>
-        <translation>Chức năng</translation>
+        <translation type="vanished">Chức năng</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Xóa</translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation></translation>
+        <translation type="vanished">Xóa</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>Điểm nhập</translation>
+        <translation type="vanished">Điểm nhập</translation>
     </message>
     <message>
         <source>Relative address</source>
@@ -4272,15 +4817,15 @@
     <name>XELF</name>
     <message>
         <source>Section</source>
-        <translation>Mục</translation>
+        <translation type="vanished">Mục</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>Xếp chồng</translation>
+        <translation type="vanished">Xếp chồng</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -4353,6 +4898,17 @@
         <source>Strings</source>
         <translation>Chuỗi</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
+    </message>
+</context>
+<context>
+    <name>XExtractor</name>
+    <message>
+        <source>Mode is not available for this file type</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XExtractorWidget</name>
@@ -4382,7 +4938,7 @@
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>Quét phỏng đoán</translation>
+        <translation type="vanished">Quét phỏng đoán</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4390,31 +4946,35 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation>Khoảng cách</translation>
+        <translation type="vanished">Khoảng cách</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Địa chỉ</translation>
+        <translation type="vanished">Địa chỉ</translation>
     </message>
     <message>
         <source>Size</source>
         <translation>Kích thước</translation>
     </message>
     <message>
-        <source>Follow in</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Dump to file</source>
-        <translation>Kết xuất ra tập tin</translation>
+        <translation type="vanished">Kết xuất ra tập tin</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Save dump</source>
         <translation>Lưu kết xuất</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Tất cả các</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
     </message>
 </context>
 <context>
@@ -4463,168 +5023,215 @@
         <source>All files</source>
         <translation>Tất cả tập tin</translation>
     </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XFormats</name>
     <message>
         <source>obfuscator</source>
-        <translation>trình làm rối</translation>
+        <translation type="vanished">trình làm rối</translation>
     </message>
     <message>
         <source>Tool</source>
-        <translation>Dụng cụ</translation>
+        <translation type="vanished">Dụng cụ</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Lưu trữ</translation>
+        <translation type="vanished">Lưu trữ</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>Giấy chứng nhận</translation>
+        <translation type="vanished">Giấy chứng nhận</translation>
     </message>
     <message>
         <source>Compiler</source>
-        <translation>Trình biên dịch</translation>
+        <translation type="vanished">Trình biên dịch</translation>
     </message>
     <message>
         <source>Converter</source>
-        <translation>Bộ chuyển đổi</translation>
-    </message>
-    <message>
-        <source>Crypter</source>
-        <translation></translation>
+        <translation type="vanished">Bộ chuyển đổi</translation>
     </message>
     <message>
         <source>Cryptor</source>
-        <translation>Cryptor</translation>
+        <translation type="vanished">Cryptor</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Dữ liệu</translation>
+        <translation type="vanished">Dữ liệu</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>Cơ sở dữ liệu</translation>
+        <translation type="vanished">Cơ sở dữ liệu</translation>
     </message>
     <message>
         <source>Debug data</source>
-        <translation>Gỡ lỗi dữ liệu</translation>
+        <translation type="vanished">Gỡ lỗi dữ liệu</translation>
     </message>
     <message>
         <source>protection</source>
-        <translation>bảo vệ</translation>
+        <translation type="vanished">bảo vệ</translation>
     </message>
     <message>
         <source>extender</source>
-        <translation>bộ mở rộng</translation>
+        <translation type="vanished">bộ mở rộng</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Sự sắp xếp</translation>
+        <translation type="vanished">Sự sắp xếp</translation>
     </message>
     <message>
         <source>Generic</source>
-        <translation>Chung</translation>
+        <translation type="vanished">Chung</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Hình ảnh</translation>
+        <translation type="vanished">Hình ảnh</translation>
     </message>
     <message>
         <source>Installer</source>
-        <translation>Trình cài đặt</translation>
+        <translation type="vanished">Trình cài đặt</translation>
     </message>
     <message>
         <source>Installer data</source>
-        <translation>Dữ liệu trình cài đặt</translation>
+        <translation type="vanished">Dữ liệu trình cài đặt</translation>
     </message>
     <message>
         <source>Joiner</source>
-        <translation>Trình kết hợp</translation>
+        <translation type="vanished">Trình kết hợp</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Ngôn ngữ</translation>
+        <translation type="vanished">Ngôn ngữ</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>Thư viện</translation>
+        <translation type="vanished">Thư viện</translation>
     </message>
     <message>
         <source>Linker</source>
-        <translation>Người liên kết</translation>
+        <translation type="vanished">Người liên kết</translation>
     </message>
     <message>
         <source>compressor</source>
-        <translation>bộ nén</translation>
+        <translation type="vanished">bộ nén</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>Hệ điêu hanh</translation>
+        <translation type="vanished">Hệ điêu hanh</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>Xếp chồng</translation>
+        <translation type="vanished">Xếp chồng</translation>
     </message>
     <message>
         <source>Packer</source>
-        <translation>Người đóng gói</translation>
-    </message>
-    <message>
-        <source>Platform</source>
-        <translation></translation>
+        <translation type="vanished">Người đóng gói</translation>
     </message>
     <message>
         <source>Player</source>
-        <translation>Người chơi</translation>
+        <translation type="vanished">Người chơi</translation>
     </message>
     <message>
         <source>Protection</source>
-        <translation>Sự bảo vệ</translation>
+        <translation type="vanished">Sự bảo vệ</translation>
     </message>
     <message>
         <source>Protector</source>
-        <translation>Người bảo vệ</translation>
+        <translation type="vanished">Người bảo vệ</translation>
     </message>
     <message>
         <source>Protector data</source>
-        <translation>Dữ liệu người bảo vệ</translation>
+        <translation type="vanished">Dữ liệu người bảo vệ</translation>
     </message>
     <message>
         <source>data</source>
-        <translation>dữ liệu</translation>
+        <translation type="vanished">dữ liệu</translation>
     </message>
     <message>
         <source>Sign tool</source>
-        <translation>Công cụ ký</translation>
+        <translation type="vanished">Công cụ ký</translation>
     </message>
     <message>
         <source>Source code</source>
-        <translation>Mã nguồn</translation>
+        <translation type="vanished">Mã nguồn</translation>
     </message>
     <message>
         <source>Stub</source>
-        <translation>Stub</translation>
+        <translation type="vanished">Stub</translation>
     </message>
     <message>
         <source>Virtual machine</source>
-        <translation>Máy ảo</translation>
-    </message>
-    <message>
-        <source>Virus</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Trojan</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Malware</source>
-        <translation></translation>
+        <translation type="vanished">Máy ảo</translation>
     </message>
     <message>
         <source>Package</source>
-        <translation>Người đóng gói</translation>
+        <translation type="vanished">Người đóng gói</translation>
+    </message>
+    <message>
+        <source>Cannot unpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path traversal detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot decompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XGif</name>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Logical Screen Descriptor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trailer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Hình ảnh</translation>
+    </message>
+    <message>
+        <source>Graphic Control Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -4636,6 +5243,18 @@
     <message>
         <source>Footer</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -4672,6 +5291,14 @@
         <source>Name</source>
         <translation>Tên</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">Vùng</translation>
+    </message>
 </context>
 <context>
     <name>XHexEdit</name>
@@ -4700,15 +5327,11 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>Dữ liệu trong mã</translation>
+        <translation type="vanished">Dữ liệu trong mã</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>Dữ liệu trong mã</translation>
-    </message>
-    <message>
-        <source>Multisearch</source>
-        <translation></translation>
+        <translation type="vanished">Dữ liệu trong mã</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -4716,119 +5339,75 @@
     </message>
     <message>
         <source>Start</source>
-        <translation>Khởi động lại</translation>
-    </message>
-    <message>
-        <source>End</source>
-        <translation></translation>
+        <translation type="vanished">Khởi động lại</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>Kết xuất ra tập tin</translation>
+        <translation type="vanished">Kết xuất ra tập tin</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Chữ ký</translation>
+        <translation type="vanished">Chữ ký</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>Chuỗi</translation>
+        <translation type="vanished">Chuỗi</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Giá trị</translation>
+        <translation type="vanished">Giá trị</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>Tìm kiếm tiếp theo</translation>
+        <translation type="vanished">Tìm kiếm tiếp theo</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Chọn tất cả</translation>
+        <translation type="vanished">Chọn tất cả</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Dữ liệu</translation>
+        <translation type="vanished">Dữ liệu</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>Rối loạn</translation>
+        <translation type="vanished">Rối loạn</translation>
     </message>
     <message>
         <source>Memory map</source>
-        <translation>Sơ đồ bộ nhớ</translation>
-    </message>
-    <message>
-        <source>Patch</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Resize</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation></translation>
+        <translation type="vanished">Sơ đồ bộ nhớ</translation>
     </message>
     <message>
         <source>Strings</source>
-        <translation>Chuỗi</translation>
-    </message>
-    <message>
-        <source>Visualization</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Scripts</source>
-        <translation></translation>
+        <translation type="vanished">Chuỗi</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation>Đi tới</translation>
+        <translation type="vanished">Đi tới</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>Lựa chọn</translation>
+        <translation type="vanished">Lựa chọn</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Tìm kiếm</translation>
+        <translation type="vanished">Tìm kiếm</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Chọn</translation>
+        <translation type="vanished">Chọn</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Sao chép</translation>
-    </message>
-    <message>
-        <source>Follow in</source>
-        <translation></translation>
+        <translation type="vanished">Sao chép</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Chỉnh sửa</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation></translation>
+        <translation type="vanished">Chỉnh sửa</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Chế độ</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation></translation>
+        <translation type="vanished">Chế độ</translation>
     </message>
 </context>
 <context>
@@ -4846,7 +5425,7 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>Dữ liệu trong mã</translation>
+        <translation type="vanished">Dữ liệu trong mã</translation>
     </message>
     <message>
         <source>Strings</source>
@@ -4858,15 +5437,27 @@
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>Lựa chọn</translation>
+        <translation type="vanished">Lựa chọn</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Kích thước</translation>
+        <translation type="vanished">Kích thước</translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Loại</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4874,6 +5465,18 @@
     <message>
         <source>Header</source>
         <translation>Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -4929,6 +5532,14 @@
         <source>Open directory</source>
         <translation>Mở thư mục</translation>
     </message>
+    <message>
+        <source>Info database update URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XInfoMenu</name>
@@ -4946,7 +5557,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>Xóa</translation>
+        <translation type="vanished">Xóa</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4956,13 +5567,13 @@
         <source>All files</source>
         <translation>Tất cả tập tin</translation>
     </message>
-    <message>
+    <message id="XBinary::getDeviceDirectory(m_pXInfoDB->getDevice());">
         <source>Open file</source>
         <translation>Mở tập tin</translation>
     </message>
     <message>
-        <source>Are you sure?</source>
-        <translation></translation>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4986,24 +5597,32 @@
         <source>Data</source>
         <translation>Dữ liệu</translation>
     </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
 </context>
 <context>
     <name>XLE</name>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>Sự vật</translation>
+        <translation type="vanished">Sự vật</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>Xếp chồng</translation>
+        <translation type="vanished">Xếp chồng</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -5011,6 +5630,14 @@
     <message>
         <source>Header</source>
         <translation>Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -5055,15 +5682,15 @@
     <name>XMACH</name>
     <message>
         <source>Segment</source>
-        <translation>Đoạn</translation>
+        <translation type="vanished">Đoạn</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>Mục</translation>
+        <translation type="vanished">Mục</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -5076,6 +5703,14 @@
         <source>Header</source>
         <translation>Tiêu đề</translation>
     </message>
+    <message>
+        <source>Universal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMP3</name>
@@ -5083,20 +5718,39 @@
         <source>Header</source>
         <translation>Tiêu đề</translation>
     </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
+</context>
+<context>
+    <name>XMP4</name>
+    <message>
+        <source>Boxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
 </context>
 <context>
     <name>XMSDOS</name>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>Xếp chồng</translation>
+        <translation type="vanished">Xếp chồng</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -5167,7 +5821,7 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>Kết xuất ra tập tin</translation>
+        <translation type="vanished">Kết xuất ra tập tin</translation>
     </message>
     <message>
         <source>Dump</source>
@@ -5180,6 +5834,14 @@
     <message>
         <source>Raw data</source>
         <translation>Dữ lieu thô</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">Tải lại</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">Tìm kiếm</translation>
     </message>
 </context>
 <context>
@@ -5200,12 +5862,40 @@
         <source>Readonly</source>
         <translation>Chỉ đọc</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Method</source>
+        <translation type="unfinished">phương pháp</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Quan điểm</translation>
+    </message>
+    <message>
+        <source>Compact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XNE</name>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -5267,6 +5957,10 @@
     <message>
         <source>Documents</source>
         <translation>Tài liệu</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">không xác định</translation>
     </message>
 </context>
 <context>
@@ -5371,6 +6065,26 @@
         <source>Please restart the application</source>
         <translation>Vui lòng khởi động lại ứng dụng</translation>
     </message>
+    <message>
+        <source>Set system environment variable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AVX2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Features</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XPDF</name>
@@ -5386,122 +6100,170 @@
         <source>Footer</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">không xác định</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">Tài liệu</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Hình ảnh</translation>
+    </message>
+    <message>
+        <source>Color palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
 </context>
 <context>
     <name>XPE</name>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation>Ứng dụng</translation>
+        <translation type="vanished">Ứng dụng</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation>Bảng điều khiển</translation>
+        <translation type="vanished">Bảng điều khiển</translation>
     </message>
     <message>
         <source>Driver</source>
-        <translation>Người lái xe</translation>
+        <translation type="vanished">Người lái xe</translation>
     </message>
     <message>
         <source>Boot application</source>
-        <translation>Khởi động ứng dụng</translation>
+        <translation type="vanished">Khởi động ứng dụng</translation>
     </message>
     <message>
         <source>Runtime driver</source>
-        <translation>Trình điều khiển thời gian chạy</translation>
+        <translation type="vanished">Trình điều khiển thời gian chạy</translation>
     </message>
     <message>
         <source>Boot service driver</source>
-        <translation>Khởi động trình điều khiển dịch vụ</translation>
+        <translation type="vanished">Khởi động trình điều khiển dịch vụ</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>Mục</translation>
+        <translation type="vanished">Mục</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>Xếp chồng</translation>
+        <translation type="vanished">Xếp chồng</translation>
     </message>
     <message>
         <source>Cannot open file</source>
-        <translation>Không thể mở tập tin</translation>
+        <translation type="vanished">Không thể mở tập tin</translation>
     </message>
     <message>
         <source>The file is signed and the signature was verified</source>
-        <translation>Tệp đã được ký và chữ ký đã được xác minh</translation>
+        <translation type="vanished">Tệp đã được ký và chữ ký đã được xác minh</translation>
     </message>
     <message>
         <source>The file is not signed</source>
-        <translation>Tệp không được ký</translation>
+        <translation type="vanished">Tệp không được ký</translation>
     </message>
     <message>
         <source>The signature is present, but specifically disallowed</source>
-        <translation>Chữ ký hiện có, nhưng đặc biệt không được phép</translation>
+        <translation type="vanished">Chữ ký hiện có, nhưng đặc biệt không được phép</translation>
     </message>
     <message>
         <source>The signature is present, but not trusted</source>
-        <translation>Chữ ký hiện có, nhưng không đáng tin cậy</translation>
+        <translation type="vanished">Chữ ký hiện có, nhưng không đáng tin cậy</translation>
     </message>
     <message>
         <source>The signature error</source>
-        <translation>Lỗi chữ ký</translation>
+        <translation type="vanished">Lỗi chữ ký</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>Điểm nhập</translation>
+        <translation type="vanished">Điểm nhập</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Trích xuất</translation>
+        <translation type="vanished">Trích xuất</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Nhập</translation>
+        <translation type="vanished">Nhập</translation>
     </message>
     <message>
         <source>Relocs</source>
-        <translation>Relocs</translation>
+        <translation type="vanished">Relocs</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>Tài nguyên</translation>
+        <translation type="vanished">Tài nguyên</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>Giấy chứng nhận</translation>
+        <translation type="vanished">Giấy chứng nhận</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>không hợp lệ</translation>
+        <translation type="vanished">không hợp lệ</translation>
     </message>
 </context>
 <context>
     <name>XPNG</name>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
     <name>XRar</name>
     <message>
         <source>Header</source>
-        <translation>Tiêu đề</translation>
+        <translation type="vanished">Tiêu đề</translation>
     </message>
     <message>
         <source>Data</source>
         <translation>Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">Chữ ký</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -5512,7 +6274,31 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>không xác định</translation>
+        <translation type="vanished">không xác định</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
+    <message>
+        <source>Invalid data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected end of data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot unpack data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid format data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5779,7 +6565,7 @@
     </message>
     <message>
         <source>CPU</source>
-        <translation>CPU</translation>
+        <translation type="vanished">CPU</translation>
     </message>
     <message>
         <source>Log</source>
@@ -5907,15 +6693,43 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>Dữ liệu trong mã</translation>
+        <translation type="vanished">Dữ liệu trong mã</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>Dữ liệu trong mã</translation>
+        <translation type="vanished">Dữ liệu trong mã</translation>
     </message>
     <message>
         <source>Multisearch</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convertor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5957,27 +6771,42 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>Địa chỉ</translation>
+        <translation type="vanished">Địa chỉ</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>Biểu tượng</translation>
+        <translation type="vanished">Biểu tượng</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Kích thước</translation>
+        <translation type="vanished">Kích thước</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Tên</translation>
-    </message>
-    <message>
-        <source>Code</source>
-        <translation></translation>
+        <translation type="vanished">Tên</translation>
     </message>
     <message>
         <source>Symbols</source>
         <translation>Ký hiệu</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">Tải lại</translation>
+    </message>
+</context>
+<context>
+    <name>XTAR</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -5989,6 +6818,93 @@
     <message>
         <source>Table</source>
         <translation>Bàn</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
+    </message>
+</context>
+<context>
+    <name>XUpdate</name>
+    <message>
+        <source>Cannot find ZIP asset %1 in release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracting %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create temporary unpack directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid ZIP archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open downloaded ZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>updated successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to extract %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported GitHub release URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot fetch release metadata for %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid release body for %1. Expected date=yyyy-MM-dd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No local info.ini for %1. Bootstrapping from GitHub release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read local info.ini for %1, skipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Updating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is up to date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6057,6 +6973,41 @@
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
+    <message>
+        <source>First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XVisualization</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">Entropy</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zeros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Chữ</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">không xác định</translation>
+    </message>
 </context>
 <context>
     <name>XVisualizationWidget</name>
@@ -6110,23 +7061,27 @@
     </message>
     <message>
         <source>Entropy</source>
-        <translation>Entropy</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Zeros</source>
-        <translation></translation>
+        <translation type="vanished">Entropy</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Chữ</translation>
+        <translation type="vanished">Chữ</translation>
     </message>
     <message>
         <source>Visualization</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Chế độ</translation>
+    </message>
+    <message>
+        <source>Methods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6134,6 +7089,53 @@
     <message>
         <source>Start</source>
         <translation>Khởi động lại</translation>
+    </message>
+    <message>
+        <source>Invalid YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open rules file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No YARA rules were loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA rules path not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot build YARA rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open scan target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA scan failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XZip</name>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -6147,8 +7149,27 @@
         <translation>Dữ liệu</translation>
     </message>
     <message>
-        <source>Footer</source>
-        <translation></translation>
+        <source>Adler32</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>X_Ar</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Tiêu đề</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">Dữ liệu</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">Xếp chồng</translation>
     </message>
 </context>
 <context>
@@ -6192,6 +7213,18 @@
     <message>
         <source>Cannot save file</source>
         <translation>Không thể lưu tập tin</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">Kết quả</translation>
+    </message>
+    <message>
+        <source>Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rule name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

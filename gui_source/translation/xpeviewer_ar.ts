@@ -126,12 +126,13 @@
         <source>Search</source>
         <translation>بحث</translation>
     </message>
-</context>
-<context>
-    <name>Binary_Script</name>
     <message>
-        <source>Invalid handle</source>
-        <translation></translation>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -164,7 +165,7 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation>منقي</translation>
+        <translation type="vanished">منقي</translation>
     </message>
     <message>
         <source>Save</source>
@@ -210,6 +211,14 @@
         <source>Search</source>
         <translation>بحث</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEOptionsWidget</name>
@@ -246,10 +255,6 @@
         <translation>إبراز</translation>
     </message>
     <message>
-        <source>Buffer size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Scan</source>
         <translation>فحص</translation>
     </message>
@@ -265,6 +270,30 @@
         <source>Open directory</source>
         <translation>فتح الدليل</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
+    </message>
+    <message>
+        <source>Aggressive scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra database</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIEWidgetAdvanced</name>
@@ -278,27 +307,27 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>خيارات</translation>
+        <translation type="vanished">خيارات</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>فحص عميق</translation>
+        <translation type="vanished">فحص عميق</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>مسح تكراري</translation>
+        <translation type="vanished">مسح تكراري</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>إطناب</translation>
+        <translation type="vanished">إطناب</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>كل الانواع</translation>
+        <translation type="vanished">كل الانواع</translation>
     </message>
     <message>
         <source>Signatures</source>
@@ -328,6 +357,26 @@
         <source>Cannot save file</source>
         <translation>لا يمكن حفظ الملف</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">قاعدة البيانات</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">نتيجة</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Signature name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DIE_Widget</name>
@@ -337,19 +386,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>مسح تكراري</translation>
+        <translation type="vanished">مسح تكراري</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>فحص عميق</translation>
+        <translation type="vanished">فحص عميق</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>إطناب</translation>
+        <translation type="vanished">إطناب</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -361,7 +410,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>كل الانواع</translation>
+        <translation type="vanished">كل الانواع</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -379,12 +428,24 @@
         <source>Copy as</source>
         <translation>نسخ بتنسيق</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
+    </message>
+    <message>
+        <source>Database</source>
+        <translation type="unfinished">قاعدة البيانات</translation>
+    </message>
 </context>
 <context>
     <name>DiE_Script</name>
     <message>
         <source>Cannot load database</source>
-        <translation>لا يمكن تحميل قاعدة البيانات</translation>
+        <translation type="vanished">لا يمكن تحميل قاعدة البيانات</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -503,6 +564,21 @@
     </message>
 </context>
 <context>
+    <name>DialogCreateViewModel</name>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">خطأ</translation>
+    </message>
+    <message>
+        <source>Invalid parameters provided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File name cannot be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DialogDIEScanDirectory</name>
     <message>
         <source>Directory scan</source>
@@ -518,23 +594,23 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>مسح تكراري</translation>
+        <translation type="vanished">مسح تكراري</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>فحص عميق</translation>
+        <translation type="vanished">فحص عميق</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>إطناب</translation>
+        <translation type="vanished">إطناب</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>كل الانواع</translation>
+        <translation type="vanished">كل الانواع</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -567,6 +643,10 @@
     <message>
         <source>Save result</source>
         <translation>حفظ النتيجة</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
     </message>
 </context>
 <context>
@@ -629,7 +709,7 @@
     </message>
     <message>
         <source>Show options</source>
-        <translation>إظهار الخيارات</translation>
+        <translation type="vanished">إظهار الخيارات</translation>
     </message>
     <message>
         <source>Show version</source>
@@ -655,6 +735,10 @@
         <source>msec</source>
         <translation>جزء من الثانية</translation>
     </message>
+    <message>
+        <source>Show info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogDIESignaturesElapsed</name>
@@ -679,7 +763,7 @@
     <name>DialogDataInspector</name>
     <message>
         <source>Data inspector</source>
-        <translation>فاحص البيانات</translation>
+        <translation type="vanished">فاحص البيانات</translation>
     </message>
     <message>
         <source>Endianness</source>
@@ -717,6 +801,10 @@
         <source>Binary</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogDemangle</name>
@@ -744,7 +832,7 @@
     <name>DialogDumpProcess</name>
     <message>
         <source>Dump</source>
-        <translation>تفريغ</translation>
+        <translation type="vanished">تفريغ</translation>
     </message>
 </context>
 <context>
@@ -956,66 +1044,66 @@
     <name>DialogMultiDisasmSignature</name>
     <message>
         <source>Signature</source>
-        <translation>توقيع</translation>
+        <translation type="vanished">توقيع</translation>
     </message>
     <message>
         <source>Spaces</source>
-        <translation>المساحات</translation>
+        <translation type="vanished">المساحات</translation>
     </message>
     <message>
         <source>Upper</source>
-        <translation>أعلى</translation>
+        <translation type="vanished">أعلى</translation>
     </message>
     <message>
         <source>Wildcard</source>
-        <translation>حرف البدل</translation>
+        <translation type="vanished">حرف البدل</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation>فحص</translation>
+        <translation type="vanished">فحص</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>نسخ</translation>
+        <translation type="vanished">نسخ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>نعم</translation>
+        <translation type="vanished">نعم</translation>
     </message>
     <message>
         <source>Relative virtual address</source>
-        <translation>العنوان الافتراضي النسبي</translation>
+        <translation type="vanished">العنوان الافتراضي النسبي</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation type="vanished">عنوان</translation>
     </message>
     <message>
         <source>Bytes</source>
-        <translation>بايتات</translation>
+        <translation type="vanished">بايتات</translation>
     </message>
     <message>
         <source>Opcode</source>
-        <translation>رمز التشغيل</translation>
+        <translation type="vanished">رمز التشغيل</translation>
     </message>
 </context>
 <context>
     <name>DialogMultiSearchProcess</name>
     <message>
         <source>Search strings</source>
-        <translation>بحث عن السلاسل</translation>
+        <translation type="vanished">بحث عن السلاسل</translation>
     </message>
     <message>
         <source>Search signatures</source>
-        <translation>التوقيعات</translation>
+        <translation type="vanished">التوقيعات</translation>
     </message>
     <message>
         <source>Search values</source>
-        <translation>بحث عن القيم</translation>
+        <translation type="vanished">بحث عن القيم</translation>
     </message>
     <message>
         <source>Create view model</source>
-        <translation>إنشاء نموذج العرض</translation>
+        <translation type="vanished">إنشاء نموذج العرض</translation>
     </message>
 </context>
 <context>
@@ -1045,23 +1133,23 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>مسح تكراري</translation>
+        <translation type="vanished">مسح تكراري</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>فحص عميق</translation>
+        <translation type="vanished">فحص عميق</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>إطناب</translation>
+        <translation type="vanished">إطناب</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>كل الانواع</translation>
+        <translation type="vanished">كل الانواع</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -1095,16 +1183,20 @@
         <source>Save result</source>
         <translation>حفظ النتيجة</translation>
     </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
+    </message>
 </context>
 <context>
     <name>DialogNFDScanProcess</name>
     <message>
         <source>Text documents</source>
-        <translation>مستندات نصية</translation>
+        <translation type="vanished">مستندات نصية</translation>
     </message>
     <message>
         <source>Save result</source>
-        <translation>حفظ النتيجة</translation>
+        <translation type="vanished">حفظ النتيجة</translation>
     </message>
 </context>
 <context>
@@ -1245,16 +1337,24 @@
         <source>Cursor</source>
         <translation>المؤشر</translation>
     </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">نوع</translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">Hex</translation>
+    </message>
 </context>
 <context>
     <name>DialogSearchProcess</name>
     <message>
         <source>Search</source>
-        <translation>بحث</translation>
+        <translation type="vanished">بحث</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>إلغاء</translation>
+        <translation type="vanished">إلغاء</translation>
     </message>
 </context>
 <context>
@@ -1368,6 +1468,85 @@
     <message>
         <source>Close</source>
         <translation>إغلاق</translation>
+    </message>
+    <message>
+        <source>Image information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">خطأ</translation>
+    </message>
+    <message>
+        <source>Image file does not exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to load image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit to Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">نسخ</translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished">حفظ بإسم</translation>
+    </message>
+    <message>
+        <source>Save Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished">الصور</translation>
+    </message>
+    <message>
+        <source>Failed to save image to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No image loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">الحجم</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">تنسيق</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DialogShowText</name>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">نص</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">إغلاق</translation>
     </message>
 </context>
 <context>
@@ -1532,6 +1711,22 @@
         <source>Background</source>
         <translation>خلفية</translation>
     </message>
+    <message>
+        <source>Text color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>String</source>
+        <translation type="unfinished">نص</translation>
+    </message>
 </context>
 <context>
     <name>DialogVisualization</name>
@@ -1588,39 +1783,31 @@
     <name>DialogXInfoDBTransferProcess</name>
     <message>
         <source>Analyze</source>
-        <translation>تحليل</translation>
+        <translation type="vanished">تحليل</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>فك التجميع</translation>
+        <translation type="vanished">فك التجميع</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>الرموز</translation>
+        <translation type="vanished">الرموز</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>حذف</translation>
+        <translation type="vanished">حذف</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>أزالة</translation>
+        <translation type="vanished">أزالة</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>تصدير</translation>
+        <translation type="vanished">تصدير</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>استيراد</translation>
-    </message>
-    <message>
-        <source>Scan for IAT</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Get IAT</source>
-        <translation></translation>
+        <translation type="vanished">استيراد</translation>
     </message>
 </context>
 <context>
@@ -1635,11 +1822,11 @@
     </message>
     <message>
         <source>Functions</source>
-        <translation>دالة</translation>
+        <translation type="vanished">دالة</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>مراجع</translation>
+        <translation type="vanished">مراجع</translation>
     </message>
 </context>
 <context>
@@ -1777,11 +1964,11 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation>تعديل</translation>
+        <translation type="vanished">تعديل</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>تفكيك</translation>
+        <translation type="vanished">تفكيك</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1793,7 +1980,15 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>تفريغ إلى ملف</translation>
+        <translation type="vanished">تفريغ إلى ملف</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1890,6 +2085,10 @@
     <message>
         <source>Value</source>
         <translation>قيمة</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
     </message>
 </context>
 <context>
@@ -2037,6 +2236,18 @@
     <message>
         <source>Open directory</source>
         <translation>فتح الدليل</translation>
+    </message>
+    <message>
+        <source>Scan engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">أرشيف</translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2240,6 +2451,14 @@
         <source>Edit</source>
         <translation>تعديل</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MACHOFATWidget</name>
@@ -2416,6 +2635,14 @@
         <source>Demangle</source>
         <translation>تفكيك</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSDOSWidget</name>
@@ -2475,40 +2702,64 @@
         <source>Overlay</source>
         <translation>طبقة</translation>
     </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">تفريغ</translation>
+    </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiSearch</name>
     <message>
         <source>Number</source>
-        <translation>رقم</translation>
+        <translation type="vanished">رقم</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>الإزاحة</translation>
+        <translation type="vanished">الإزاحة</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation type="vanished">عنوان</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>الحجم</translation>
+        <translation type="vanished">الحجم</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>نوع</translation>
+        <translation type="vanished">نوع</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>قيمة</translation>
+        <translation type="vanished">قيمة</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>اسم</translation>
+        <translation type="vanished">اسم</translation>
+    </message>
+    <message>
+        <source>Search strings</source>
+        <translation type="unfinished">بحث عن السلاسل</translation>
+    </message>
+    <message>
+        <source>Search signatures</source>
+        <translation type="unfinished">التوقيعات</translation>
+    </message>
+    <message>
+        <source>Search values</source>
+        <translation type="unfinished">بحث عن القيم</translation>
     </message>
 </context>
 <context>
@@ -2580,6 +2831,14 @@
         <source>Overlay</source>
         <translation>طبقة</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDOptionsWidget</name>
@@ -2611,6 +2870,10 @@
         <source>Highlight</source>
         <translation>إبراز</translation>
     </message>
+    <message>
+        <source>Format result</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NFDWidgetAdvanced</name>
@@ -2620,27 +2883,27 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>خيارات</translation>
+        <translation type="vanished">خيارات</translation>
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>مسح تكراري</translation>
+        <translation type="vanished">مسح تكراري</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>فحص عميق</translation>
+        <translation type="vanished">فحص عميق</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>إطناب</translation>
+        <translation type="vanished">إطناب</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>كل الانواع</translation>
+        <translation type="vanished">كل الانواع</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2656,7 +2919,7 @@
     </message>
     <message>
         <source>Result</source>
-        <translation>نتيجة</translation>
+        <translation type="vanished">نتيجة</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2665,6 +2928,30 @@
     <message>
         <source>Value</source>
         <translation>قيمة</translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished">أعلام</translation>
+    </message>
+    <message>
+        <source>Heuristics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text files</source>
+        <translation type="unfinished">ملفات نصية</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation type="unfinished">كل الملفات</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">خطأ</translation>
+    </message>
+    <message>
+        <source>Cannot save file</source>
+        <translation type="unfinished">لا يمكن حفظ الملف</translation>
     </message>
 </context>
 <context>
@@ -2675,19 +2962,19 @@
     </message>
     <message>
         <source>Recursive scan</source>
-        <translation>مسح تكراري</translation>
+        <translation type="vanished">مسح تكراري</translation>
     </message>
     <message>
         <source>Deep scan</source>
-        <translation>فحص عميق</translation>
+        <translation type="vanished">فحص عميق</translation>
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Verbose</source>
-        <translation>إطناب</translation>
+        <translation type="vanished">إطناب</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -2695,7 +2982,7 @@
     </message>
     <message>
         <source>All types</source>
-        <translation>كل الانواع</translation>
+        <translation type="vanished">كل الانواع</translation>
     </message>
     <message>
         <source>Scan</source>
@@ -2707,7 +2994,7 @@
     </message>
     <message>
         <source>msec</source>
-        <translation>جزء من الثانية</translation>
+        <translation type="vanished">جزء من الثانية</translation>
     </message>
 </context>
 <context>
@@ -3164,6 +3451,14 @@
         <source>Demangle</source>
         <translation>تفكيك</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -3219,6 +3514,182 @@
         <source>Cannot open file</source>
         <translation>لا يمكن فتح ملف</translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">مجهول</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">رأس</translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished">تصوري</translation>
+    </message>
+    <message>
+        <source>Hex</source>
+        <translation type="unfinished">Hex</translation>
+    </message>
+    <message>
+        <source>Disasm</source>
+        <translation type="unfinished">فك التجميع</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished">أرشيف</translation>
+    </message>
+    <message>
+        <source>Hash</source>
+        <translation type="unfinished">التجزئة</translation>
+    </message>
+    <message>
+        <source>Strings</source>
+        <translation type="unfinished">السلاسل</translation>
+    </message>
+    <message>
+        <source>Signatures</source>
+        <translation type="unfinished">التوقيعات</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">المناطق</translation>
+    </message>
+    <message>
+        <source>Memory map</source>
+        <translation type="unfinished">خريطة الذاكرة</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished">الرموز</translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">مقياس العشوائية</translation>
+    </message>
+    <message>
+        <source>Extractor</source>
+        <translation type="unfinished">مستخرج</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">بحث</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">ملف</translation>
+    </message>
+    <message>
+        <source>Resource</source>
+        <translation type="unfinished">مصدر</translation>
+    </message>
+    <message>
+        <source>Region</source>
+        <translation type="unfinished">منطقة</translation>
+    </message>
+    <message>
+        <source>Debug data</source>
+        <translation type="unfinished">بيانات التصحيح</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="unfinished">القسم</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Segment</source>
+        <translation type="unfinished">شريحة</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished">تذييل</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation type="unfinished">كائن</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation type="unfinished">جدول</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="unfinished">معالجة</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">صوت</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">وثيقة</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">صورة</translation>
+    </message>
+    <message>
+        <source>Plain Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">نص</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished">فيديو</translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">معلومات</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read error</source>
+        <translation type="unfinished">خطأ في القراءة</translation>
+    </message>
+    <message>
+        <source>Architecture</source>
+        <translation type="unfinished">معمارية</translation>
+    </message>
+    <message>
+        <source>Raw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished">تنسيق</translation>
+    </message>
+    <message>
+        <source>Heuristic</source>
+        <translation type="unfinished">إرشادي</translation>
+    </message>
 </context>
 <context>
     <name>QwtPlotRenderer</name>
@@ -3254,7 +3725,7 @@
     <name>ScanItemModel</name>
     <message>
         <source>Result</source>
-        <translation>نتيجة</translation>
+        <translation type="vanished">نتيجة</translation>
     </message>
 </context>
 <context>
@@ -3300,31 +3771,43 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>نسخ</translation>
+        <translation type="vanished">نسخ</translation>
     </message>
     <message>
         <source>Follow in</source>
-        <translation>تابع في</translation>
+        <translation type="vanished">تابع في</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>اسم</translation>
+        <translation type="vanished">اسم</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>توقيع</translation>
+        <translation type="vanished">توقيع</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation type="vanished">عنوان</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>الإزاحة</translation>
+        <translation type="vanished">الإزاحة</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
+    </message>
+    <message>
+        <source>Patch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">معلومات</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">نتيجة</translation>
     </message>
 </context>
 <context>
@@ -3335,7 +3818,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>خيارات</translation>
+        <translation type="vanished">خيارات</translation>
     </message>
     <message>
         <source>Null-terminated</source>
@@ -3346,20 +3829,12 @@
         <translation>روابط</translation>
     </message>
     <message>
-        <source>Min size</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>بحث</translation>
     </message>
     <message>
-        <source>Code page</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Filter</source>
-        <translation>منقي</translation>
+        <translation type="vanished">منقي</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3371,23 +3846,23 @@
     </message>
     <message>
         <source>Follow in</source>
-        <translation>تابع في</translation>
+        <translation type="vanished">تابع في</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>تعديل</translation>
+        <translation type="vanished">تعديل</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Demangle</source>
-        <translation>تفكيك</translation>
+        <translation type="vanished">تفكيك</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3396,6 +3871,46 @@
     <message>
         <source>Cannot save file</source>
         <translation>لا يمكن حفظ الملف</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
+    </message>
+    <message>
+        <source>Mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">نتيجة</translation>
+    </message>
+    <message>
+        <source>Searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>strings found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>msec</source>
+        <translation type="unfinished">جزء من الثانية</translation>
+    </message>
+    <message>
+        <source>strings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3430,70 +3945,90 @@
     </message>
     <message>
         <source>Follow in</source>
-        <translation>تابع في</translation>
+        <translation type="vanished">تابع في</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>فك التجميع</translation>
+        <translation type="vanished">فك التجميع</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
+    </message>
+    <message>
+        <source>Search string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">نتيجة</translation>
     </message>
 </context>
 <context>
     <name>SpecAbstract</name>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
     <message>
         <source>Virus</source>
-        <translation>فايروس</translation>
+        <translation type="vanished">فايروس</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>طبقة</translation>
+        <translation type="vanished">طبقة</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>نقطة الدخول</translation>
+        <translation type="vanished">نقطة الدخول</translation>
     </message>
     <message>
         <source>Section name</source>
-        <translation>اسم القسم</translation>
+        <translation type="vanished">اسم القسم</translation>
     </message>
     <message>
         <source>Import hash</source>
-        <translation>استيراد تجزئة</translation>
+        <translation type="vanished">استيراد تجزئة</translation>
     </message>
     <message>
         <source>Code section</source>
-        <translation>قسم الشفرة</translation>
+        <translation type="vanished">قسم الشفرة</translation>
     </message>
     <message>
         <source>Entry point section</source>
-        <translation>قسم نقطة الدخول</translation>
+        <translation type="vanished">قسم نقطة الدخول</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>أرشيف</translation>
+        <translation type="vanished">أرشيف</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>المصادر</translation>
+        <translation type="vanished">المصادر</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>نوع</translation>
+        <translation type="vanished">نوع</translation>
     </message>
 </context>
 <context>
@@ -3513,6 +4048,13 @@
     <message>
         <source>Directory scan</source>
         <translation>فحص الدليل</translation>
+    </message>
+</context>
+<context>
+    <name>StaticScanItemModel</name>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">نتيجة</translation>
     </message>
 </context>
 <context>
@@ -3580,7 +4122,7 @@
     </message>
     <message>
         <source>Check updates</source>
-        <translation>تفقد التحديث</translation>
+        <translation type="vanished">تفقد التحديث</translation>
     </message>
     <message>
         <source>Libraries</source>
@@ -3614,12 +4156,13 @@
         <source>The value copied to clipboard</source>
         <translation>تم نسخ القيمة إلى الحافظة</translation>
     </message>
-</context>
-<context>
-    <name>XAbstractTableView</name>
     <message>
-        <source>Invalid font</source>
-        <translation></translation>
+        <source>Check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Social Media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3631,6 +4174,25 @@
     <message>
         <source>Archive</source>
         <translation>أرشيف</translation>
+    </message>
+    <message>
+        <source>extender</source>
+        <translation type="unfinished">موسع</translation>
+    </message>
+</context>
+<context>
+    <name>XBMP</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">رأس</translation>
+    </message>
+    <message>
+        <source>Bitmap Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -3665,55 +4227,43 @@
     </message>
     <message>
         <source>Region</source>
-        <translation>منطقة</translation>
+        <translation type="vanished">منطقة</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation>معالجة</translation>
+        <translation type="vanished">معالجة</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>أرشيف</translation>
+        <translation type="vanished">أرشيف</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>صوت</translation>
+        <translation type="vanished">صوت</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation>وثيقة</translation>
+        <translation type="vanished">وثيقة</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>صورة</translation>
-    </message>
-    <message>
-        <source>Plain Text</source>
-        <translation></translation>
+        <translation type="vanished">صورة</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>توقيع</translation>
-    </message>
-    <message>
-        <source>tar</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>tar.gz</source>
-        <translation></translation>
+        <translation type="vanished">توقيع</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>فيديو</translation>
+        <translation type="vanished">فيديو</translation>
     </message>
     <message>
         <source>Signatures</source>
-        <translation>التوقيعات</translation>
+        <translation type="vanished">التوقيعات</translation>
     </message>
     <message>
         <source>Read error</source>
@@ -3801,7 +4351,7 @@
     </message>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -3809,25 +4359,76 @@
     </message>
     <message>
         <source>Archive record</source>
-        <translation>سجل الأرشيف</translation>
+        <translation type="vanished">سجل الأرشيف</translation>
     </message>
     <message>
         <source>Resource</source>
-        <translation>مصدر</translation>
+        <translation type="vanished">مصدر</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Streams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">معلومات</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">خطأ</translation>
+    </message>
+    <message>
+        <source>Corrupted data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <translation type="unfinished">المجموع</translation>
     </message>
 </context>
 <context>
     <name>XCOM</name>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
+    </message>
+</context>
+<context>
+    <name>XCab</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">رأس</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
     <name>XCapstone</name>
     <message>
         <source>Invalid opcode</source>
-        <translation>رمز التشغيل غير صالح</translation>
+        <translation type="vanished">رمز التشغيل غير صالح</translation>
     </message>
 </context>
 <context>
@@ -3851,12 +4452,16 @@
         <source>Overlay</source>
         <translation>طبقة</translation>
     </message>
+    <message>
+        <source>Main module</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XDataConvertor</name>
     <message>
         <source>Read error</source>
-        <translation>خطأ في القراءة</translation>
+        <translation type="vanished">خطأ في القراءة</translation>
     </message>
     <message>
         <source>Write error</source>
@@ -3942,20 +4547,32 @@
         <source>Cannot resize</source>
         <translation>لا يمكن تغيير الحجم</translation>
     </message>
+    <message>
+        <source>Save dump</source>
+        <translation type="unfinished">حفظ التفريغ</translation>
+    </message>
+    <message>
+        <source>Raw data</source>
+        <translation type="unfinished">بيانات خام</translation>
+    </message>
+    <message>
+        <source>Dump</source>
+        <translation type="unfinished">تفريغ</translation>
+    </message>
 </context>
 <context>
     <name>XDeviceTableView</name>
     <message>
         <source>Save dump</source>
-        <translation>حفظ التفريغ</translation>
+        <translation type="vanished">حفظ التفريغ</translation>
     </message>
     <message>
         <source>Raw data</source>
-        <translation>بيانات خام</translation>
+        <translation type="vanished">بيانات خام</translation>
     </message>
     <message>
         <source>Dump</source>
-        <translation>تفريغ</translation>
+        <translation type="vanished">تفريغ</translation>
     </message>
     <message>
         <source>Nothing found</source>
@@ -3979,6 +4596,18 @@
     <message>
         <source>Info</source>
         <translation>معلومات</translation>
+    </message>
+    <message>
+        <source>Elapsed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remaining:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4005,111 +4634,111 @@
     </message>
     <message>
         <source>Go to</source>
-        <translation>اذهب إلى</translation>
+        <translation type="vanished">اذهب إلى</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>ايجاد</translation>
+        <translation type="vanished">ايجاد</translation>
     </message>
     <message>
         <source>Analyze</source>
-        <translation>تحليل</translation>
+        <translation type="vanished">تحليل</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>اختيار</translation>
+        <translation type="vanished">اختيار</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>نسخ</translation>
+        <translation type="vanished">نسخ</translation>
     </message>
     <message>
         <source>Follow in</source>
-        <translation>تابع في</translation>
+        <translation type="vanished">تابع في</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>تعديل</translation>
+        <translation type="vanished">تعديل</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>إشارات مرجعية</translation>
+        <translation type="vanished">إشارات مرجعية</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>تفريغ إلى ملف</translation>
+        <translation type="vanished">تفريغ إلى ملف</translation>
     </message>
     <message>
         <source>Hex signature</source>
-        <translation>توقيع Hex</translation>
+        <translation type="vanished">توقيع Hex</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>توقيع</translation>
+        <translation type="vanished">توقيع</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>قيمة</translation>
+        <translation type="vanished">قيمة</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>ايجاد التالي</translation>
+        <translation type="vanished">ايجاد التالي</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>اختيار الكل</translation>
+        <translation type="vanished">اختيار الكل</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>بيانات</translation>
+        <translation type="vanished">بيانات</translation>
     </message>
     <message>
         <source>References</source>
-        <translation>مراجع</translation>
+        <translation type="vanished">مراجع</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>الجميع</translation>
+        <translation type="vanished">الجميع</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>فك التجميع</translation>
+        <translation type="vanished">فك التجميع</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>أزالة</translation>
+        <translation type="vanished">أزالة</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>الرموز</translation>
+        <translation type="vanished">الرموز</translation>
     </message>
     <message>
         <source>Functions</source>
-        <translation>دالة</translation>
+        <translation type="vanished">دالة</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>حذف</translation>
+        <translation type="vanished">حذف</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>جديد</translation>
+        <translation type="vanished">جديد</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>قائمة</translation>
+        <translation type="vanished">قائمة</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>نقطة الدخول</translation>
+        <translation type="vanished">نقطة الدخول</translation>
     </message>
     <message>
         <source>Relative address</source>
@@ -4272,15 +4901,15 @@
     <name>XELF</name>
     <message>
         <source>Section</source>
-        <translation>القسم</translation>
+        <translation type="vanished">القسم</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>طبقة</translation>
+        <translation type="vanished">طبقة</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -4353,6 +4982,17 @@
         <source>Strings</source>
         <translation>السلاسل</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
+    </message>
+</context>
+<context>
+    <name>XExtractor</name>
+    <message>
+        <source>Mode is not available for this file type</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XExtractorWidget</name>
@@ -4382,7 +5022,7 @@
     </message>
     <message>
         <source>Heuristic scan</source>
-        <translation>مسح إرشادي</translation>
+        <translation type="vanished">مسح إرشادي</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4390,11 +5030,11 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation>الإزاحة</translation>
+        <translation type="vanished">الإزاحة</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation type="vanished">عنوان</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4402,19 +5042,27 @@
     </message>
     <message>
         <source>Follow in</source>
-        <translation>تابع في</translation>
+        <translation type="vanished">تابع في</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>تفريغ إلى ملف</translation>
+        <translation type="vanished">تفريغ إلى ملف</translation>
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Save dump</source>
         <translation>حفظ التفريغ</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">الجميع</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
     </message>
 </context>
 <context>
@@ -4463,168 +5111,231 @@
         <source>All files</source>
         <translation>كل الملفات</translation>
     </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XFormats</name>
     <message>
         <source>obfuscator</source>
-        <translation>مشوش</translation>
+        <translation type="vanished">مشوش</translation>
     </message>
     <message>
         <source>Tool</source>
-        <translation>أداة</translation>
+        <translation type="vanished">أداة</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>أرشيف</translation>
+        <translation type="vanished">أرشيف</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>شهادة</translation>
+        <translation type="vanished">شهادة</translation>
     </message>
     <message>
         <source>Compiler</source>
-        <translation>مترجم</translation>
+        <translation type="vanished">مترجم</translation>
     </message>
     <message>
         <source>Converter</source>
-        <translation>محول</translation>
+        <translation type="vanished">محول</translation>
     </message>
     <message>
         <source>Crypter</source>
-        <translation>المشفر</translation>
+        <translation type="vanished">المشفر</translation>
     </message>
     <message>
         <source>Cryptor</source>
-        <translation>كريبتور</translation>
+        <translation type="vanished">كريبتور</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>بيانات</translation>
+        <translation type="vanished">بيانات</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>قاعدة البيانات</translation>
+        <translation type="vanished">قاعدة البيانات</translation>
     </message>
     <message>
         <source>Debug data</source>
-        <translation>بيانات التصحيح</translation>
+        <translation type="vanished">بيانات التصحيح</translation>
     </message>
     <message>
         <source>protection</source>
-        <translation>حماية</translation>
+        <translation type="vanished">حماية</translation>
     </message>
     <message>
         <source>extender</source>
-        <translation>موسع</translation>
+        <translation type="vanished">موسع</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>تنسيق</translation>
+        <translation type="vanished">تنسيق</translation>
     </message>
     <message>
         <source>Generic</source>
-        <translation>نوعي</translation>
+        <translation type="vanished">نوعي</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>صورة</translation>
+        <translation type="vanished">صورة</translation>
     </message>
     <message>
         <source>Installer</source>
-        <translation>المثبت</translation>
+        <translation type="vanished">المثبت</translation>
     </message>
     <message>
         <source>Installer data</source>
-        <translation>بيانات المثبت</translation>
+        <translation type="vanished">بيانات المثبت</translation>
     </message>
     <message>
         <source>Joiner</source>
-        <translation>موصل</translation>
+        <translation type="vanished">موصل</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>لغة</translation>
+        <translation type="vanished">لغة</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>مكتبة</translation>
+        <translation type="vanished">مكتبة</translation>
     </message>
     <message>
         <source>Linker</source>
-        <translation>رابط</translation>
+        <translation type="vanished">رابط</translation>
     </message>
     <message>
         <source>compressor</source>
-        <translation>ضاغط</translation>
+        <translation type="vanished">ضاغط</translation>
     </message>
     <message>
         <source>Operation system</source>
-        <translation>نظام تشغيل</translation>
+        <translation type="vanished">نظام تشغيل</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>طبقة</translation>
+        <translation type="vanished">طبقة</translation>
     </message>
     <message>
         <source>Packer</source>
-        <translation>رازم</translation>
-    </message>
-    <message>
-        <source>Platform</source>
-        <translation></translation>
+        <translation type="vanished">رازم</translation>
     </message>
     <message>
         <source>Player</source>
-        <translation>مشغل</translation>
+        <translation type="vanished">مشغل</translation>
     </message>
     <message>
         <source>Protection</source>
-        <translation>حماية</translation>
+        <translation type="vanished">حماية</translation>
     </message>
     <message>
         <source>Protector</source>
-        <translation>حامي</translation>
+        <translation type="vanished">حامي</translation>
     </message>
     <message>
         <source>Protector data</source>
-        <translation>بيانات الحامي</translation>
+        <translation type="vanished">بيانات الحامي</translation>
     </message>
     <message>
         <source>data</source>
-        <translation>البيانات</translation>
+        <translation type="vanished">البيانات</translation>
     </message>
     <message>
         <source>Sign tool</source>
-        <translation>أداة التوقيع</translation>
+        <translation type="vanished">أداة التوقيع</translation>
     </message>
     <message>
         <source>Source code</source>
-        <translation>الشفرة المصدرية</translation>
+        <translation type="vanished">الشفرة المصدرية</translation>
     </message>
     <message>
         <source>Stub</source>
-        <translation>عقب</translation>
+        <translation type="vanished">عقب</translation>
     </message>
     <message>
         <source>Virtual machine</source>
-        <translation>جهاز افتراضي</translation>
+        <translation type="vanished">جهاز افتراضي</translation>
     </message>
     <message>
         <source>Virus</source>
-        <translation>فايروس</translation>
+        <translation type="vanished">فايروس</translation>
     </message>
     <message>
         <source>Trojan</source>
-        <translation>حصان طروادة</translation>
+        <translation type="vanished">حصان طروادة</translation>
     </message>
     <message>
         <source>Malware</source>
-        <translation>برامج ضارة</translation>
+        <translation type="vanished">برامج ضارة</translation>
     </message>
     <message>
         <source>Package</source>
-        <translation>رازم</translation>
+        <translation type="vanished">رازم</translation>
+    </message>
+    <message>
+        <source>Cannot unpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path traversal detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot decompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XGif</name>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Logical Screen Descriptor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Color Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trailer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">صورة</translation>
+    </message>
+    <message>
+        <source>Graphic Control Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -4636,6 +5347,18 @@
     <message>
         <source>Footer</source>
         <translation>تذييل</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -4672,6 +5395,14 @@
         <source>Name</source>
         <translation>اسم</translation>
     </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
+    </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished">المناطق</translation>
+    </message>
 </context>
 <context>
     <name>XHexEdit</name>
@@ -4700,15 +5431,15 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>فاحص البيانات</translation>
+        <translation type="vanished">فاحص البيانات</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>محول البيانات</translation>
+        <translation type="vanished">محول البيانات</translation>
     </message>
     <message>
         <source>Multisearch</source>
-        <translation>بحث متعدد</translation>
+        <translation type="vanished">بحث متعدد</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -4716,119 +5447,115 @@
     </message>
     <message>
         <source>Start</source>
-        <translation>البدء</translation>
+        <translation type="vanished">البدء</translation>
     </message>
     <message>
         <source>End</source>
-        <translation>النهاية</translation>
+        <translation type="vanished">النهاية</translation>
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>تفريغ إلى ملف</translation>
+        <translation type="vanished">تفريغ إلى ملف</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>توقيع</translation>
+        <translation type="vanished">توقيع</translation>
     </message>
     <message>
         <source>String</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>قيمة</translation>
+        <translation type="vanished">قيمة</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation>ايجاد التالي</translation>
+        <translation type="vanished">ايجاد التالي</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>اختيار الكل</translation>
+        <translation type="vanished">اختيار الكل</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>بيانات</translation>
+        <translation type="vanished">بيانات</translation>
     </message>
     <message>
         <source>Disasm</source>
-        <translation>فك التجميع</translation>
+        <translation type="vanished">فك التجميع</translation>
     </message>
     <message>
         <source>Memory map</source>
-        <translation>خريطة الذاكرة</translation>
-    </message>
-    <message>
-        <source>Patch</source>
-        <translation></translation>
+        <translation type="vanished">خريطة الذاكرة</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>أزالة</translation>
+        <translation type="vanished">أزالة</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>تغيير الحجم</translation>
+        <translation type="vanished">تغيير الحجم</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>جديد</translation>
+        <translation type="vanished">جديد</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>قائمة</translation>
+        <translation type="vanished">قائمة</translation>
     </message>
     <message>
         <source>Strings</source>
-        <translation>السلاسل</translation>
+        <translation type="vanished">السلاسل</translation>
     </message>
     <message>
         <source>Visualization</source>
-        <translation>تصوري</translation>
+        <translation type="vanished">تصوري</translation>
     </message>
     <message>
         <source>Scripts</source>
-        <translation>نص برمجي</translation>
+        <translation type="vanished">نص برمجي</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation>اذهب إلى</translation>
+        <translation type="vanished">اذهب إلى</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>اختيار</translation>
+        <translation type="vanished">اختيار</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>ايجاد</translation>
+        <translation type="vanished">ايجاد</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>اختيار</translation>
+        <translation type="vanished">اختيار</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>نسخ</translation>
+        <translation type="vanished">نسخ</translation>
     </message>
     <message>
         <source>Follow in</source>
-        <translation>تابع في</translation>
+        <translation type="vanished">تابع في</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>تعديل</translation>
+        <translation type="vanished">تعديل</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>إشارات مرجعية</translation>
+        <translation type="vanished">إشارات مرجعية</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>الوضع</translation>
+        <translation type="vanished">الوضع</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>عرض</translation>
+        <translation type="vanished">عرض</translation>
     </message>
 </context>
 <context>
@@ -4846,7 +5573,7 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>فاحص البيانات</translation>
+        <translation type="vanished">فاحص البيانات</translation>
     </message>
     <message>
         <source>Strings</source>
@@ -4858,15 +5585,27 @@
     </message>
     <message>
         <source>Hex</source>
-        <translation>Hex</translation>
+        <translation type="vanished">Hex</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>اختيار</translation>
+        <translation type="vanished">اختيار</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>الحجم</translation>
+        <translation type="vanished">الحجم</translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">نوع</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4874,6 +5613,18 @@
     <message>
         <source>Header</source>
         <translation>رأس</translation>
+    </message>
+    <message>
+        <source>Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -4929,6 +5680,14 @@
         <source>Open directory</source>
         <translation>فتح الدليل</translation>
     </message>
+    <message>
+        <source>Info database update URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XInfoMenu</name>
@@ -4946,7 +5705,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>حذف</translation>
+        <translation type="vanished">حذف</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4956,13 +5715,17 @@
         <source>All files</source>
         <translation>كل الملفات</translation>
     </message>
-    <message>
+    <message id="XBinary::getDeviceDirectory(m_pXInfoDB->getDevice());">
         <source>Open file</source>
         <translation>فتح ملف</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>هل أنت متأكد؟</translation>
+        <translation type="vanished">هل أنت متأكد؟</translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4986,24 +5749,32 @@
         <source>Data</source>
         <translation>بيانات</translation>
     </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
 </context>
 <context>
     <name>XLE</name>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>كائن</translation>
+        <translation type="vanished">كائن</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>طبقة</translation>
+        <translation type="vanished">طبقة</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -5011,6 +5782,14 @@
     <message>
         <source>Header</source>
         <translation>رأس</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -5055,15 +5834,15 @@
     <name>XMACH</name>
     <message>
         <source>Segment</source>
-        <translation>شريحة</translation>
+        <translation type="vanished">شريحة</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>القسم</translation>
+        <translation type="vanished">القسم</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -5076,6 +5855,14 @@
         <source>Header</source>
         <translation>رأس</translation>
     </message>
+    <message>
+        <source>Universal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMP3</name>
@@ -5083,20 +5870,39 @@
         <source>Header</source>
         <translation>رأس</translation>
     </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
+</context>
+<context>
+    <name>XMP4</name>
+    <message>
+        <source>Boxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">رأس</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
 </context>
 <context>
     <name>XMSDOS</name>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>طبقة</translation>
+        <translation type="vanished">طبقة</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -5167,7 +5973,7 @@
     </message>
     <message>
         <source>Dump to file</source>
-        <translation>تفريغ إلى ملف</translation>
+        <translation type="vanished">تفريغ إلى ملف</translation>
     </message>
     <message>
         <source>Dump</source>
@@ -5180,6 +5986,14 @@
     <message>
         <source>Raw data</source>
         <translation>بيانات خام</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">إعادة تحميل</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">ايجاد</translation>
     </message>
 </context>
 <context>
@@ -5200,12 +6014,40 @@
         <source>Readonly</source>
         <translation>قراءة فقط</translation>
     </message>
+    <message>
+        <source>Next visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Method</source>
+        <translation type="unfinished">طريقة</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">عرض</translation>
+    </message>
+    <message>
+        <source>Compact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XNE</name>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -5267,6 +6109,10 @@
     <message>
         <source>Documents</source>
         <translation>وثائق</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">مجهول</translation>
     </message>
 </context>
 <context>
@@ -5371,6 +6217,26 @@
         <source>Please restart the application</source>
         <translation>الرجاء إعادة تشغيل التطبيق</translation>
     </message>
+    <message>
+        <source>Set system environment variable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File buffer size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AVX2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Features</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XPDF</name>
@@ -5386,122 +6252,170 @@
         <source>Footer</source>
         <translation>تذييل</translation>
     </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">مجهول</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished">وثيقة</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">صورة</translation>
+    </message>
+    <message>
+        <source>Color palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
 </context>
 <context>
     <name>XPE</name>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation>تطبيق</translation>
+        <translation type="vanished">تطبيق</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation>وحدة التحكم</translation>
+        <translation type="vanished">وحدة التحكم</translation>
     </message>
     <message>
         <source>Driver</source>
-        <translation>تعريف</translation>
+        <translation type="vanished">تعريف</translation>
     </message>
     <message>
         <source>Boot application</source>
-        <translation>تطبيق التمهيد</translation>
+        <translation type="vanished">تطبيق التمهيد</translation>
     </message>
     <message>
         <source>Runtime driver</source>
-        <translation>وقت تشغيل التعريف</translation>
+        <translation type="vanished">وقت تشغيل التعريف</translation>
     </message>
     <message>
         <source>Boot service driver</source>
-        <translation>تعريف خدمة التمهيد</translation>
+        <translation type="vanished">تعريف خدمة التمهيد</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>القسم</translation>
+        <translation type="vanished">القسم</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation>طبقة</translation>
+        <translation type="vanished">طبقة</translation>
     </message>
     <message>
         <source>Cannot open file</source>
-        <translation>لا يمكن فتح ملف</translation>
+        <translation type="vanished">لا يمكن فتح ملف</translation>
     </message>
     <message>
         <source>The file is signed and the signature was verified</source>
-        <translation>تم توقيع الملف والتحقق من التوقيع</translation>
+        <translation type="vanished">تم توقيع الملف والتحقق من التوقيع</translation>
     </message>
     <message>
         <source>The file is not signed</source>
-        <translation>الملف غير موقع</translation>
+        <translation type="vanished">الملف غير موقع</translation>
     </message>
     <message>
         <source>The signature is present, but specifically disallowed</source>
-        <translation>التوقيع موجود ، لكنه غير مسموح به على وجه التحديد</translation>
+        <translation type="vanished">التوقيع موجود ، لكنه غير مسموح به على وجه التحديد</translation>
     </message>
     <message>
         <source>The signature is present, but not trusted</source>
-        <translation>التوقيع موجود ولكن غير موثوق به</translation>
+        <translation type="vanished">التوقيع موجود ولكن غير موثوق به</translation>
     </message>
     <message>
         <source>The signature error</source>
-        <translation>خطأ التوقيع</translation>
+        <translation type="vanished">خطأ التوقيع</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>خطأ</translation>
+        <translation type="vanished">خطأ</translation>
     </message>
     <message>
         <source>Entry point</source>
-        <translation>نقطة الدخول</translation>
+        <translation type="vanished">نقطة الدخول</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>تصدير</translation>
+        <translation type="vanished">تصدير</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>استيراد</translation>
+        <translation type="vanished">استيراد</translation>
     </message>
     <message>
         <source>Relocs</source>
-        <translation>إعادة التمركز</translation>
+        <translation type="vanished">إعادة التمركز</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>المصادر</translation>
+        <translation type="vanished">المصادر</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation>شهادة</translation>
+        <translation type="vanished">شهادة</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>غير صالح</translation>
+        <translation type="vanished">غير صالح</translation>
     </message>
 </context>
 <context>
     <name>XPNG</name>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
     <name>XRar</name>
     <message>
         <source>Header</source>
-        <translation>رأس</translation>
+        <translation type="vanished">رأس</translation>
     </message>
     <message>
         <source>Data</source>
         <translation>بيانات</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished">توقيع</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -5512,7 +6426,31 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation type="vanished">مجهول</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
+    <message>
+        <source>Invalid data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected end of data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot unpack data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid format data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5779,7 +6717,7 @@
     </message>
     <message>
         <source>CPU</source>
-        <translation>وحدة المعالجة المركزية</translation>
+        <translation type="vanished">وحدة المعالجة المركزية</translation>
     </message>
     <message>
         <source>Log</source>
@@ -5907,15 +6845,43 @@
     </message>
     <message>
         <source>Data inspector</source>
-        <translation>فاحص البيانات</translation>
+        <translation type="vanished">فاحص البيانات</translation>
     </message>
     <message>
         <source>Data convertor</source>
-        <translation>محول البيانات</translation>
+        <translation type="vanished">محول البيانات</translation>
     </message>
     <message>
         <source>Multisearch</source>
         <translation>بحث متعدد</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">موقع</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">عرض</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inspector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convertor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visualization</source>
+        <translation type="unfinished">تصوري</translation>
     </message>
 </context>
 <context>
@@ -5957,27 +6923,46 @@
     </message>
     <message>
         <source>Address</source>
-        <translation>عنوان</translation>
+        <translation type="vanished">عنوان</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>رمز</translation>
+        <translation type="vanished">رمز</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>الحجم</translation>
+        <translation type="vanished">الحجم</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>اسم</translation>
+        <translation type="vanished">اسم</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation>الشفرة</translation>
+        <translation type="vanished">الشفرة</translation>
     </message>
     <message>
         <source>Symbols</source>
         <translation>الرموز</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished">إعادة تحميل</translation>
+    </message>
+</context>
+<context>
+    <name>XTAR</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">رأس</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -5989,6 +6974,93 @@
     <message>
         <source>Table</source>
         <translation>جدول</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
+    </message>
+</context>
+<context>
+    <name>XUpdate</name>
+    <message>
+        <source>Cannot find ZIP asset %1 in release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracting %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create temporary unpack directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid ZIP archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open downloaded ZIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>updated successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to extract %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported GitHub release URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot fetch release metadata for %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid release body for %1. Expected date=yyyy-MM-dd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No local info.ini for %1. Bootstrapping from GitHub release %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read local info.ini for %1, skipping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Updating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is up to date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6057,6 +7129,41 @@
         <source>Error</source>
         <translation>خطأ</translation>
     </message>
+    <message>
+        <source>First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XVisualization</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entropy</source>
+        <translation type="unfinished">مقياس العشوائية</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zeros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">نص</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">مجهول</translation>
+    </message>
 </context>
 <context>
     <name>XVisualizationWidget</name>
@@ -6110,23 +7217,27 @@
     </message>
     <message>
         <source>Entropy</source>
-        <translation>مقياس العشوائية</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Zeros</source>
-        <translation></translation>
+        <translation type="vanished">مقياس العشوائية</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>نص</translation>
+        <translation type="vanished">نص</translation>
     </message>
     <message>
         <source>Visualization</source>
         <translation>تصوري</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">الوضع</translation>
+    </message>
+    <message>
+        <source>Methods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6134,6 +7245,53 @@
     <message>
         <source>Start</source>
         <translation>البدء</translation>
+    </message>
+    <message>
+        <source>Invalid YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open rules file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create YARA compiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No YARA rules were loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA rules path not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot build YARA rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open scan target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YARA scan failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XZip</name>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -6148,7 +7306,30 @@
     </message>
     <message>
         <source>Footer</source>
-        <translation>تذييل</translation>
+        <translation type="vanished">تذييل</translation>
+    </message>
+    <message>
+        <source>Adler32</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>X_Ar</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">رأس</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished">بيانات</translation>
+    </message>
+    <message>
+        <source>Overlay</source>
+        <translation type="unfinished">طبقة</translation>
     </message>
 </context>
 <context>
@@ -6192,6 +7373,18 @@
     <message>
         <source>Cannot save file</source>
         <translation>لا يمكن حفظ الملف</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation type="unfinished">نتيجة</translation>
+    </message>
+    <message>
+        <source>Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rule name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
